@@ -1,0 +1,3 @@
+[submodule "oneapi-community/themes/tinyworks"]
+	path = oneapi-community/themes/tinyworks
+	url = https://github.com/Nigh/tinyworks
