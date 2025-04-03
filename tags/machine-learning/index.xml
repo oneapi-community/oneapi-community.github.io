@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine-Learning' on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/machine-learning/</link><description>Recent content in Machine-Learning' on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:40:42 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Cardiovascular Risk Prediction oneAPI</title><link>http://oneapi-community.github.io/projects/cardiovascular-risk-prediction-oneapi/</link><pubDate>Sun, 23 Jun 2024 15:40:42 -0700</pubDate><guid>http://oneapi-community.github.io/projects/cardiovascular-risk-prediction-oneapi/</guid><description>Cardiovascular Risk prediction is crucial for improving health outcomes, saving lives, reducing healthcare costs, and promoting a healthier society.The leading cause of death in the developed world is heart disease. Therefore there needs to be work done to help prevent the risks of of having a heart attack or stroke.</description></item></channel></rss>eye-opener to enhance the diagnosis accuracy by assisting maintenance using AI to ensure high precision of the biomedical instruments, especially in applications like telemedicine.</description></item><item><title>Insurance Fraud Detection OneAPI</title><link>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</link><pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate><guid>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</guid><description>Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 11:48:55 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loan Acceptance Using ML</title>
+      <link>http://oneapi-community.github.io/projects/loan-acceptance-using-ml/</link>
+      <pubDate>Fri, 13 Dec 2024 11:48:55 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/loan-acceptance-using-ml/</guid>
+      <description>&lt;p&gt;Machine Learning project for Loan Acceptance prediction with OneAPI optimization&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI Early Warning System Waste Water Analysis</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-early-warning-system-waste-water-analysis/</link>
+      <pubDate>Fri, 13 Dec 2024 11:41:46 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-early-warning-system-waste-water-analysis/</guid>
+      <description>&lt;p&gt;The AI-Powered Early Warning System leverages cutting-edge technologies, including Intel oneAPI, to analyze wastewater data and detect early signs of infectious diseases, antibiotic resistance, and emerging health threats. This revolutionary system provides a proactive approach to safeguarding public health by predicting outbreaks before they escalate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insruance Fraud Detection</title>
+      <link>http://oneapi-community.github.io/projects/insruance-fraud-detection/</link>
+      <pubDate>Fri, 04 Oct 2024 19:42:11 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/insruance-fraud-detection/</guid>
+      <description>&lt;p&gt;Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Self Organisation Vi</title>
+      <link>http://oneapi-community.github.io/projects/data-self-organisation-vi/</link>
+      <pubDate>Fri, 04 Oct 2024 19:33:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/data-self-organisation-vi/</guid>
+      <description>&lt;p&gt;Genetic algorithms &amp;amp; cellular automa learning experiments&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Water Quality Analysis and Prediction</title>
+      <link>http://oneapi-community.github.io/projects/water-quality-analysis-and-prediction/</link>
+      <pubDate>Fri, 04 Oct 2024 19:30:15 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/water-quality-analysis-and-prediction/</guid>
+      <description>&lt;p&gt;A water quality analysis and prediction system using Intel&amp;rsquo;s oneAPI Data Analytics Library and traditional Python libraries. The project involves exploring a large-scale water quality dataset, conducting thorough data cleaning, and implementing a machine learning model for predicting water quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RUL Prediction From NASA S Dataset for Aircraft Engines Using Intel oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/rul-prediction-from-nasa-s-dataset-for-aircraft-engines-using-intel-oneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 15:37:14 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/rul-prediction-from-nasa-s-dataset-for-aircraft-engines-using-intel-oneapi/</guid>
+      <description>&lt;p&gt;Machinery like Biomedical Recording Instruments often are subject to wear-and-tear and hence this study on Remaining Useful Life (RUL) with NASA dataset on machines under the influence of even external factors influenced while in space can be an eye-opener to enhance the diagnosis accuracy by assisting maintenance using AI to ensure high precision of the biomedical instruments, especially in applications like telemedicine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insurance Fraud Detection OneAPI</title>
+      <link>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</guid>
+      <description>&lt;p&gt;Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

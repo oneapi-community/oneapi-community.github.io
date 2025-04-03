@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hackathon on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/hackathon/</link><description>Recent content in Hackathon on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 11:10:26 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml"/><item><title>Bangalore House Price Prediction with oneAPI</title><link>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</link><pubDate>Mon, 30 Oct 2023 11:10:26 -0700</pubDate><guid>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</guid><description>To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.</description></item><item><title>Crop prediction oneAPI</title><link>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</link><pubDate>Mon, 30 Oct 2023 11:05:41 -0700</pubDate><guid>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</guid><description>The crop recommendation application is a cutting-edge tool that helps farmers make informed decisions about what crops to grow. The application leverages machine learning algorithms to provide customized crop recommendations based on the soil data provided by the user.</description></item><item><title>Lunar Model oneAPI</title><link>http://oneapi-community.github.io/projects/lunar-model-oneapi/</link><pubDate>Mon, 18 Sep 2023 12:29:46 -0700</pubDate><guid>http://oneapi-community.github.io/projects/lunar-model-oneapi/</guid><description>Our project lunar api as established in the documentation uses Segmentation model that is developed using CNN in a U-net Architecture.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/hackathon/</link>
+    <description>Recent content in Hackathon on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:30:15 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water Quality Analysis and Prediction</title>
+      <link>http://oneapi-community.github.io/projects/water-quality-analysis-and-prediction/</link>
+      <pubDate>Fri, 04 Oct 2024 19:30:15 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/water-quality-analysis-and-prediction/</guid>
+      <description>&lt;p&gt;A water quality analysis and prediction system using Intel&amp;rsquo;s oneAPI Data Analytics Library and traditional Python libraries. The project involves exploring a large-scale water quality dataset, conducting thorough data cleaning, and implementing a machine learning model for predicting water quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RVCE Stock Market Prediction</title>
+      <link>http://oneapi-community.github.io/projects/rvce-stock-market-prediction/</link>
+      <pubDate>Fri, 04 Oct 2024 19:24:29 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/rvce-stock-market-prediction/</guid>
+      <description>&lt;p&gt;This repository contains the implementation of a stock market prediction model for Microsoft stocks, developed as part of the Intel OneAPI AI Analytics Toolkit Hackathon. The project leverages advanced AI techniques and the Intel OneAPI AI Analytics Toolkit to train and deploy predictive models, aiming to forecast Microsoft stock prices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bangalore House Price Prediction with oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</link>
+      <pubDate>Mon, 30 Oct 2023 11:10:26 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</guid>
+      <description>&lt;p&gt;To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crop prediction oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</link>
+      <pubDate>Mon, 30 Oct 2023 11:05:41 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</guid>
+      <description>&lt;p&gt;The crop recommendation application is a cutting-edge tool that helps farmers make informed decisions about what crops to grow. The application leverages machine learning algorithms to provide customized crop recommendations based on the soil data provided by the user.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lunar Model oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/lunar-model-oneapi/</link>
+      <pubDate>Mon, 18 Sep 2023 12:29:46 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/lunar-model-oneapi/</guid>
+      <description>&lt;p&gt;Our project lunar api as established in the documentation uses Segmentation model that is developed using CNN in a U-net Architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

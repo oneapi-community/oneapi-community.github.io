@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learnig on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/machine-learnig/</link>
+    <description>Recent content in Machine Learnig on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:19:06 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/machine-learnig/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivid OneAPI JSupercomputing</title>
+      <link>http://oneapi-community.github.io/projects/vivid-oneapi-jsupercomputing/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/vivid-oneapi-jsupercomputing/</guid>
+      <description>&lt;p&gt;The ViVid project aims to improve the implementation and optimization of algorithms for handling massive data flows, using oneAPI in heterogeneous architectures, mainly with CPU+GPU, and eventually FPGA. The methodology consists of selecting appropriate algorithms, developing code and dependencies using oneAPI, identifying and solving performance bottlenecks, and maximizing parallelization. Our goal is to achieve significant advances in real-time processing of large volumes of data, efficiently leveraging the performance of state-of-the-art heterogeneous architectures.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

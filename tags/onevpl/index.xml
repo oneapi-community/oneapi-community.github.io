@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Onevpl on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/onevpl/</link><description>Recent content in Onevpl on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 12:38:49 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/onevpl/index.xml" rel="self" type="application/rss+xml"/><item><title>Onevpl Rs</title><link>http://oneapi-community.github.io/projects/onevpl-rs/</link><pubDate>Tue, 31 Oct 2023 12:38:49 -0700</pubDate><guid>http://oneapi-community.github.io/projects/onevpl-rs/</guid><description>A rust wrapper around the Intel OneAPI Video Processing Library</description></item><item><title>oneAPI Antispoofing</title><link>http://oneapi-community.github.io/projects/oneapi-antispoofing/</link><pubDate>Mon, 18 Sep 2023 12:41:18 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-antispoofing/</guid><description>Certiface AntiSpoofing use oneAPI for fast decode video for perform liveness detection with inference.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onevpl on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/onevpl/</link>
+    <description>Recent content in Onevpl on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 12:38:49 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/onevpl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Onevpl Rs</title>
+      <link>http://oneapi-community.github.io/projects/onevpl-rs/</link>
+      <pubDate>Tue, 31 Oct 2023 12:38:49 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/onevpl-rs/</guid>
+      <description>&lt;p&gt;A rust wrapper around the Intel OneAPI Video Processing Library&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Antispoofing</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-antispoofing/</link>
+      <pubDate>Mon, 18 Sep 2023 12:41:18 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-antispoofing/</guid>
+      <description>&lt;p&gt;Certiface AntiSpoofing use oneAPI for fast decode video for perform liveness detection with inference.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

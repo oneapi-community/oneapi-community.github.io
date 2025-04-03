@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devsummit on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/devsummit/</link>
+    <description>Recent content in Devsummit on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 11:39:38 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/devsummit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oneapi Ai and Hpc Devsummit Workshop</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-ai-and-hpc-devsummit-workshop/</link>
+      <pubDate>Fri, 13 Dec 2024 11:39:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-ai-and-hpc-devsummit-workshop/</guid>
+      <description>&lt;p&gt;LLM Custom Chatbot development with Huggingface opensource Mistral 7B model with Intel Developer Cloud (IDC)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

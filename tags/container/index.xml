@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Container on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/container/</link><description>Recent content in Container on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 13:35:09 -0800</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/container/index.xml" rel="self" type="application/rss+xml"/><item><title>Stable Diffusion Docker</title><link>http://oneapi-community.github.io/projects/stable-diffusion-docker/</link><pubDate>Tue, 23 Jan 2024 13:35:09 -0800</pubDate><guid>http://oneapi-community.github.io/projects/stable-diffusion-docker/</guid><description>Custom build of stable-diffusion-docker-ui with various plugins, ad-hoc compiled (SYCL, CUDA 7.5+PTX, Skylake Server Arch) tensorflow and optimized (RTX 7.5, CUDA+cuDD 11.2, Arch Skylake) OneDNN binaries.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Container on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/container/</link>
+    <description>Recent content in Container on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 13:35:09 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stable Diffusion Docker</title>
+      <link>http://oneapi-community.github.io/projects/stable-diffusion-docker/</link>
+      <pubDate>Tue, 23 Jan 2024 13:35:09 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/stable-diffusion-docker/</guid>
+      <description>&lt;p&gt;Custom build of stable-diffusion-docker-ui with various plugins, ad-hoc compiled (SYCL, CUDA 7.5+PTX, Skylake Server Arch) tensorflow and optimized (RTX 7.5, CUDA+cuDD 11.2, Arch Skylake) OneDNN binaries.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sycl on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/sycl/</link><description>Recent content in Sycl on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 13:33:18 -0800</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/sycl/index.xml" rel="self" type="application/rss+xml"/><item><title>Sycl Intel Spec</title><link>http://oneapi-community.github.io/projects/sycl-intel-spec/</link><pubDate>Tue, 23 Jan 2024 13:33:18 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-intel-spec/</guid><description>Repository for running specialization tests over Intel GPUs with SYCL.</description></item><item><title>Sycl Ray Tracer</title><link>http://oneapi-community.github.io/projects/sycl-ray-tracer/</link><pubDate>Tue, 23 Jan 2024 13:26:38 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-ray-tracer/</guid><description>Implementation of a GPU-based ray tracer using SYCL and Embree using both megakernel and wavefront approaches.</description></item><item><title>Sycl Bfs</title><link>http://oneapi-community.github.io/projects/sycl-bfs/</link><pubDate>Tue, 23 Jan 2024 13:25:08 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-bfs/</guid><description>A repository containing implementaitons of the BFS with SYCL framework.</description></item><item><title>SYCL FNIRS Motion Detectio</title><link>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</link><pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</guid><description>SYCL machine learning libraries to detect motion detection in fNIRS.</description></item><item><title>MuSYCL</title><link>http://oneapi-community.github.io/projects/musycl/</link><pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate><guid>http://oneapi-community.github.io/projects/musycl/</guid><description>This is a small music synthesizer to experiment with C++23 programming, design patterns and acceleration on hardware accelerators like GPU, FPGA or CGRA with the SYCL 2020 standard.</description></item><item><title>Sycl Collision Sim</title><link>http://oneapi-community.github.io/projects/sycl-collision-sim/</link><pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-collision-sim/</guid><description>Example SYCL implementation of collision detection</description></item><item><title>SYCL Ray Tracing</title><link>http://oneapi-community.github.io/projects/sycl-ray-tracing/</link><pubDate>Tue, 14 Nov 2023 15:10:55 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-ray-tracing/</guid><description>Ray tracing using SYCL.</description></item><item><title>Parallel Spmv Sycl Multi Queue</title><link>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</link><pubDate>Tue, 14 Nov 2023 15:08:34 -0800</pubDate><guid>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</guid><description>Sylc version of parallelSpnv using multiple queues for the solution</description></item><item><title>Dwarf Bench</title><link>http://oneapi-community.github.io/projects/dwarf-bench/</link><pubDate>Tue, 14 Nov 2023 15:07:03 -0800</pubDate><guid>http://oneapi-community.github.io/projects/dwarf-bench/</guid><description>“Dwarf bench” is a collection of patterns that attempt to capture performance characteristics of analytical queries. The idea is to extend the taxonomy of computational patterns defined in the article “The Landscape of Parallel Computing Research” published in 2006 to data analytics in heterogeneous environments. Implementing basic structures and algorithms once for multiple devices strives to find a balance between performance and specific capabilities usage, and implementation effort. We chose platform-agnostic tools to express our language of patterns (OpenCL, SYCL).</description></item><item><title>VapourSynth BilateralGPU</title><link>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</link><pubDate>Tue, 14 Nov 2023 15:04:45 -0800</pubDate><guid>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</guid><description>Bilateral filter is a non-linear, edge-preserving and noise-reducing smoothing filter for images.
-The intensity value at each pixel in an image is replaced by a weighted average of intensity values from nearby pixels. This weight can be based on a Gaussian distribution.</description></item><item><title>Altis Sycl</title><link>http://oneapi-community.github.io/projects/altis-sycl/</link><pubDate>Tue, 14 Nov 2023 12:51:11 -0800</pubDate><guid>http://oneapi-community.github.io/projects/altis-sycl/</guid><description>Altis-SYCL is a SYCL-based implementation of the Altis GPGPU benchmark suite (originally written in CUDA) for CPUs, GPUs, and FPGAs.
-Altis-SYCL has been migrated from CUDA using the DPC++ Compatibility Tool (DPCT) of oneAPI v2022.1. Our main focus is to evaluate the performance of these GPU-tailored SYCL kernels and to investigate their optimization potential for FPGAs. For some cases, minor code changes were made to speedup the FPGA port as our interest lies in the achievable performance without major rework of the kernels.</description></item><item><title>Neural Network Sim</title><link>http://oneapi-community.github.io/projects/neural-network-sim/</link><pubDate>Wed, 01 Nov 2023 16:50:42 -0700</pubDate><guid>http://oneapi-community.github.io/projects/neural-network-sim/</guid><description>Neural Network Simulation Written in C++ using Intel OneAPI and ImGUI Libraries.</description></item><item><title>Sycl Test Offload</title><link>http://oneapi-community.github.io/projects/sycl-test-offload/</link><pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate><guid>http://oneapi-community.github.io/projects/sycl-test-offload/</guid><description>A sandbox for testing a SYCL-enabled DLL + a non-SYCL test program.</description></item><item><title>Xpu</title><link>http://oneapi-community.github.io/projects/xpu/</link><pubDate>Wed, 01 Nov 2023 08:57:31 -0700</pubDate><guid>http://oneapi-community.github.io/projects/xpu/</guid><description>Compile and run C++ code with CUDA, HIP, SYCL or OpenMP.</description></item><item><title>OneAPI FPGA</title><link>http://oneapi-community.github.io/projects/oneapi-fpga/</link><pubDate>Tue, 31 Oct 2023 13:59:37 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-fpga/</guid><description>Developing Applications using Intel® oneAPI for FPGAs</description></item><item><title>OneAPI Crystal</title><link>http://oneapi-community.github.io/projects/oneapi-crystal/</link><pubDate>Tue, 31 Oct 2023 12:55:25 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-crystal/</guid><description>SYCL implementation of the Crystal library for SQL queries on GPU and CPU, based on http://anilshanbhag.in/static/papers/crystal_sigmod20.pdf</description></item><item><title>Mkl Verbose Toolkit</title><link>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</link><pubDate>Mon, 30 Oct 2023 11:12:34 -0700</pubDate><guid>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</guid><description>We propose script to facilitate the generation and the parsing of Math Verbose log file:
-To parse the log file and generate summary tables, use mkl_parse.py or cublas_parse.py To restrict the verbosity for one MPI_RANK, use mkl_hook wrapper.</description></item><item><title>oneAPI Antispoofing</title><link>http://oneapi-community.github.io/projects/oneapi-antispoofing/</link><pubDate>Mon, 18 Sep 2023 12:41:18 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-antispoofing/</guid><description>Certiface AntiSpoofing use oneAPI for fast decode video for perform liveness detection with inference.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sycl on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/sycl/</link>
+    <description>Recent content in Sycl on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 12:04:00 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/sycl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parallel computing in practice</title>
+      <link>http://oneapi-community.github.io/projects/parallel_computing_in_practice/</link>
+      <pubDate>Fri, 13 Dec 2024 12:04:00 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/parallel_computing_in_practice/</guid>
+      <description>&lt;p&gt;Examples of deploying and computing with SYCL, OpenCL, Level Zero and OpenMP on GPU devices for enhanced parallel performance&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Visionsycl</title>
+      <link>http://oneapi-community.github.io/projects/visionsycl/</link>
+      <pubDate>Fri, 13 Dec 2024 11:38:06 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/visionsycl/</guid>
+      <description>&lt;p&gt;Attempt to provide common image processing functions that runs on heterogeneous devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL CLUE</title>
+      <link>http://oneapi-community.github.io/projects/sycl-clue/</link>
+      <pubDate>Fri, 04 Oct 2024 19:16:10 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-clue/</guid>
+      <description>&lt;p&gt;Testing physics implementation of SYCL and OneApi using CLUE&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Intel Spec</title>
+      <link>http://oneapi-community.github.io/projects/sycl-intel-spec/</link>
+      <pubDate>Tue, 23 Jan 2024 13:33:18 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-intel-spec/</guid>
+      <description>&lt;p&gt;Repository for running specialization tests over Intel GPUs with SYCL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Ray Tracer</title>
+      <link>http://oneapi-community.github.io/projects/sycl-ray-tracer/</link>
+      <pubDate>Tue, 23 Jan 2024 13:26:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-ray-tracer/</guid>
+      <description>&lt;p&gt;Implementation of a GPU-based ray tracer using SYCL and Embree using both megakernel and wavefront approaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Bfs</title>
+      <link>http://oneapi-community.github.io/projects/sycl-bfs/</link>
+      <pubDate>Tue, 23 Jan 2024 13:25:08 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-bfs/</guid>
+      <description>&lt;p&gt;A repository containing implementaitons of the BFS with SYCL framework.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL FNIRS Motion Detectio</title>
+      <link>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</link>
+      <pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</guid>
+      <description>&lt;p&gt;SYCL machine learning libraries to detect motion detection in fNIRS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MuSYCL</title>
+      <link>http://oneapi-community.github.io/projects/musycl/</link>
+      <pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/musycl/</guid>
+      <description>&lt;p&gt;This is a small music synthesizer to experiment with C++23 programming,&#xA;design patterns and acceleration on hardware accelerators like GPU,&#xA;FPGA or CGRA with the SYCL 2020 standard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Collision Sim</title>
+      <link>http://oneapi-community.github.io/projects/sycl-collision-sim/</link>
+      <pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-collision-sim/</guid>
+      <description>&lt;p&gt;Example SYCL implementation of collision detection&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL Ray Tracing</title>
+      <link>http://oneapi-community.github.io/projects/sycl-ray-tracing/</link>
+      <pubDate>Tue, 14 Nov 2023 15:10:55 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-ray-tracing/</guid>
+      <description>&lt;p&gt;Ray tracing using SYCL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel Spmv Sycl Multi Queue</title>
+      <link>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</link>
+      <pubDate>Tue, 14 Nov 2023 15:08:34 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</guid>
+      <description>&lt;p&gt;Sylc version of parallelSpnv using multiple queues for the solution&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dwarf Bench</title>
+      <link>http://oneapi-community.github.io/projects/dwarf-bench/</link>
+      <pubDate>Tue, 14 Nov 2023 15:07:03 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/dwarf-bench/</guid>
+      <description>&lt;p&gt;“Dwarf bench” is a collection of patterns that attempt to capture&#xA;performance characteristics of analytical queries. The idea is to extend&#xA;the taxonomy of computational patterns defined in the article “The&#xA;Landscape of Parallel Computing Research” published in 2006 to data&#xA;analytics in heterogeneous environments. Implementing basic structures&#xA;and algorithms once for multiple devices strives to find a balance&#xA;between performance and specific capabilities usage, and implementation&#xA;effort. We chose platform-agnostic tools to express our language of&#xA;patterns (OpenCL, SYCL).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VapourSynth BilateralGPU</title>
+      <link>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</link>
+      <pubDate>Tue, 14 Nov 2023 15:04:45 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</guid>
+      <description>&lt;p&gt;Bilateral filter is a non-linear, edge-preserving and noise-reducing&#xA;smoothing filter for images.&lt;/p&gt;&#xA;&lt;p&gt;The intensity value at each pixel in an image is replaced by a weighted&#xA;average of intensity values from nearby pixels. This weight can be based&#xA;on a Gaussian distribution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Altis Sycl</title>
+      <link>http://oneapi-community.github.io/projects/altis-sycl/</link>
+      <pubDate>Tue, 14 Nov 2023 12:51:11 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/altis-sycl/</guid>
+      <description>&lt;p&gt;Altis-SYCL is a SYCL-based implementation of the Altis GPGPU benchmark&#xA;suite (originally written in CUDA) for CPUs, GPUs, and FPGAs.&lt;/p&gt;&#xA;&lt;p&gt;Altis-SYCL has been migrated from CUDA using the DPC++ Compatibility Tool&#xA;(DPCT) of oneAPI v2022.1. Our main focus is to evaluate the performance&#xA;of these GPU-tailored SYCL kernels and to investigate their optimization&#xA;potential for FPGAs. For some cases, minor code changes were made to&#xA;speedup the FPGA port as our interest lies in the achievable performance&#xA;without major rework of the kernels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neural Network Sim</title>
+      <link>http://oneapi-community.github.io/projects/neural-network-sim/</link>
+      <pubDate>Wed, 01 Nov 2023 16:50:42 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/neural-network-sim/</guid>
+      <description>&lt;p&gt;Neural Network Simulation Written in C++ using Intel OneAPI and ImGUI Libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Test Offload</title>
+      <link>http://oneapi-community.github.io/projects/sycl-test-offload/</link>
+      <pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-test-offload/</guid>
+      <description>&lt;p&gt;A sandbox for testing a SYCL-enabled DLL + a non-SYCL test program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xpu</title>
+      <link>http://oneapi-community.github.io/projects/xpu/</link>
+      <pubDate>Wed, 01 Nov 2023 08:57:31 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/xpu/</guid>
+      <description>&lt;p&gt;Compile and run C++ code with CUDA, HIP, SYCL or OpenMP.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI FPGA</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-fpga/</link>
+      <pubDate>Tue, 31 Oct 2023 13:59:37 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-fpga/</guid>
+      <description>&lt;p&gt;Developing Applications using Intel® oneAPI for FPGAs&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI Crystal</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-crystal/</link>
+      <pubDate>Tue, 31 Oct 2023 12:55:25 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-crystal/</guid>
+      <description>&lt;p&gt;SYCL implementation of the Crystal library for SQL queries on GPU and CPU, based on &lt;a href=&#34;http://anilshanbhag.in/static/papers/crystal_sigmod20.pdf&#34;&gt;http://anilshanbhag.in/static/papers/crystal_sigmod20.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mkl Verbose Toolkit</title>
+      <link>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</link>
+      <pubDate>Mon, 30 Oct 2023 11:12:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</guid>
+      <description>&lt;p&gt;We propose script to facilitate the generation and the parsing of Math Verbose log file:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;To parse the log file and generate summary tables, use mkl_parse.py or cublas_parse.py&lt;/li&gt;&#xA;&lt;li&gt;To restrict the verbosity for one MPI_RANK, use mkl_hook wrapper.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Antispoofing</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-antispoofing/</link>
+      <pubDate>Mon, 18 Sep 2023 12:41:18 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-antispoofing/</guid>
+      <description>&lt;p&gt;Certiface AntiSpoofing use oneAPI for fast decode video for perform liveness detection with inference.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

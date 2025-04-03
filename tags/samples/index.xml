@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Samples on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/samples/</link><description>Recent content in Samples on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 10:54:39 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/samples/index.xml" rel="self" type="application/rss+xml"/><item><title>Sycl Test Offload</title><link>http://oneapi-community.github.io/projects/sycl-test-offload/</link><pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate><guid>http://oneapi-community.github.io/projects/sycl-test-offload/</guid><description>A sandbox for testing a SYCL-enabled DLL + a non-SYCL test program.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samples on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/samples/</link>
+    <description>Recent content in Samples on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 10:54:39 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/samples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sycl Test Offload</title>
+      <link>http://oneapi-community.github.io/projects/sycl-test-offload/</link>
+      <pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-test-offload/</guid>
+      <description>&lt;p&gt;A sandbox for testing a SYCL-enabled DLL + a non-SYCL test program.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

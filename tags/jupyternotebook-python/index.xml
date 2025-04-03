@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jupyternotebook, Python on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/jupyternotebook-python/</link><description>Recent content in Jupyternotebook, Python on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 12:28:19 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/jupyternotebook-python/index.xml" rel="self" type="application/rss+xml"/><item><title>Imagine Childworks</title><link>http://oneapi-community.github.io/projects/imagine-childworks/</link><pubDate>Fri, 29 Mar 2024 12:28:19 -0700</pubDate><guid>http://oneapi-community.github.io/projects/imagine-childworks/</guid><description>SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI and ML 🤖 to offer personalized itineraries, route optimization, accommodation suggestions, and real-time updates. hello to seamless adventures with SmartTravel Assistant. ✨</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jupyternotebook, Python on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/jupyternotebook-python/</link>
+    <description>Recent content in Jupyternotebook, Python on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 12:28:19 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/jupyternotebook-python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imagine Childworks</title>
+      <link>http://oneapi-community.github.io/projects/imagine-childworks/</link>
+      <pubDate>Fri, 29 Mar 2024 12:28:19 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/imagine-childworks/</guid>
+      <description>&lt;p&gt;SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI and ML 🤖 to offer personalized itineraries, route optimization, accommodation suggestions, and real-time updates. hello to seamless adventures with SmartTravel Assistant. ✨&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

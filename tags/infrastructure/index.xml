@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/infrastructure/</link>
+    <description>Recent content in Infrastructure on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 11:52:27 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/setup-oneapi/</link>
+      <pubDate>Fri, 13 Dec 2024 11:52:27 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/setup-oneapi/</guid>
+      <description>&lt;p&gt;oneapi installer for github actions&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

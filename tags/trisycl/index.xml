@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TriSYCL on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/trisycl/</link><description>Recent content in TriSYCL on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 15:13:25 -0800</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/trisycl/index.xml" rel="self" type="application/rss+xml"/><item><title>MuSYCL</title><link>http://oneapi-community.github.io/projects/musycl/</link><pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate><guid>http://oneapi-community.github.io/projects/musycl/</guid><description>This is a small music synthesizer to experiment with C++23 programming, design patterns and acceleration on hardware accelerators like GPU, FPGA or CGRA with the SYCL 2020 standard.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TriSYCL on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/trisycl/</link>
+    <description>Recent content in TriSYCL on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 15:13:25 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/trisycl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MuSYCL</title>
+      <link>http://oneapi-community.github.io/projects/musycl/</link>
+      <pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/musycl/</guid>
+      <description>&lt;p&gt;This is a small music synthesizer to experiment with C++23 programming,&#xA;design patterns and acceleration on hardware accelerators like GPU,&#xA;FPGA or CGRA with the SYCL 2020 standard.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

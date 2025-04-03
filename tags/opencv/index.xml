@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenCV on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/opencv/</link><description>Recent content in OpenCV on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 12:34:39 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/opencv/index.xml" rel="self" type="application/rss+xml"/><item><title>Open Gesture for African Sign Language</title><link>http://oneapi-community.github.io/projects/african-machine-intelligence/</link><pubDate>Mon, 18 Sep 2023 12:34:39 -0700</pubDate><guid>http://oneapi-community.github.io/projects/african-machine-intelligence/</guid><description>This project provides Python code to recognize African Sign Language gestures for numbers using OpenCV AI Kit: OAK—D depth cameras. Additionally, this project showcases the utility of convolutional neural networks as a key component of real-time gesture classification pipelines using Intel OpenVINO.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenCV on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/opencv/</link>
+    <description>Recent content in OpenCV on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Sep 2023 12:34:39 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Gesture for African Sign Language</title>
+      <link>http://oneapi-community.github.io/projects/african-machine-intelligence/</link>
+      <pubDate>Mon, 18 Sep 2023 12:34:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/african-machine-intelligence/</guid>
+      <description>&lt;p&gt;This project provides Python code to recognize African Sign Language gestures for numbers using OpenCV AI Kit: OAK—D depth cameras. Additionally, this project showcases the utility of convolutional neural networks as a key component of real-time gesture classification pipelines using Intel OpenVINO.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

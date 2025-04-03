@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cellular Automa on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/cellular-automa/</link>
+    <description>Recent content in Cellular Automa on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:33:34 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/cellular-automa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Self Organisation Vi</title>
+      <link>http://oneapi-community.github.io/projects/data-self-organisation-vi/</link>
+      <pubDate>Fri, 04 Oct 2024 19:33:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/data-self-organisation-vi/</guid>
+      <description>&lt;p&gt;Genetic algorithms &amp;amp; cellular automa learning experiments&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

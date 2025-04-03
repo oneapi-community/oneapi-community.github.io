@@ -1,5 +1,586 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on oneAPI Community Page</title><link>http://oneapi-community.github.io/projects/</link><description>Recent content in Projects on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:40:42 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Cardiovascular Risk Prediction oneAPI</title><link>http://oneapi-community.github.io/projects/cardiovascular-risk-prediction-oneapi/</link><pubDate>Sun, 23 Jun 2024 15:40:42 -0700</pubDate><guid>http://oneapi-community.github.io/projects/cardiovascular-risk-prediction-oneapi/</guid><description>Cardiovascular Risk prediction is crucial for improving health outcomes, saving lives, reducing healthcare costs, and promoting a healthier society.The leading cause of death in the developed world is heart disease. Therefore there needs to be work done to help prevent the risks of of having a heart attack or stroke.</description></item><item><title>RUL Prediction From NASA S Dataset for Aircraft Engines Using Intel oneAPI</title><link>http://oneapi-community.github.io/projects/rul-prediction-from-nasa-s-dataset-for-aircraft-engines-using-intel-oneapi/</link><pubDate>Sun, 23 Jun 2024 15:37:14 -0700</pubDate><guid>http://oneapi-community.github.io/projects/rul-prediction-from-nasa-s-dataset-for-aircraft-engines-using-intel-oneapi/</guid><description>Machinery like Biomedical Recording Instruments often are subject to wear-and-tear and hence this study on Remaining Useful Life (RUL) with NASA dataset on machines under the influence of even external factors influenced while in space can be an eye-opener to enhance the diagnosis accuracy by assisting maintenance using AI to ensure high precision of the biomedical instruments, especially in applications like telemedicine.</description></item><item><title>Insurance Fraud Detection OneAPI</title><link>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</link><pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate><guid>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</guid><description>Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)</description></item><item><title>Intel oneAPI Speech Emotion Recognition</title><link>http://oneapi-community.github.io/projects/intel-oneapi-speech-emotion-recognition/</link><pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate><guid>http://oneapi-community.github.io/projects/intel-oneapi-speech-emotion-recognition/</guid><description>Human-Computer interactions are make it mandatory to get accuracy communications, like both human. If computer identify means we will get clever interaction We might be on the verge of too many screens. It seems like everyday, new versions of common objects are “re-invented” with built-in Wi-Fi and bright touchscreens. A promising antidote to our screen addiction are voice interfaces.</description></item><item><title>LightWaveExplorer</title><link>http://oneapi-community.github.io/projects/lightwaveexplorer/</link><pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate><guid>http://oneapi-community.github.io/projects/lightwaveexplorer/</guid><description>Lightwave explorer is an open source nonlinear optics simulator, intended to be fast, visual, and flexible for students and researchers to play with ultrashort laser pulses and nonlinear optics without having to buy a laser first.</description></item><item><title>Warpaffine</title><link>http://oneapi-community.github.io/projects/warpaffine/</link><pubDate>Sun, 23 Jun 2024 15:11:37 -0700</pubDate><guid>http://oneapi-community.github.io/projects/warpaffine/</guid><description>This is an experimental effort at implementing a &amp;ldquo;Deskew operation&amp;rdquo; with the best performance possible.
-With an acquisition from a Lattice Lightsheet microscope the image slices are created at a skewed angle. In order to create a regular volumetric image in Cartesian coordinates, the volume needs to undergo a geometric transformation (and affine transformation, hence the name of this project) and needs to be resampled.</description></item><item><title>RayBNN DiffEq</title><link>http://oneapi-community.github.io/projects/raybnn_diffeq/</link><pubDate>Sun, 23 Jun 2024 14:47:58 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_diffeq/</guid><description>Differential Equation Solver using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>RayBNN_Raytrace</title><link>http://oneapi-community.github.io/projects/raybnn_raytrace/</link><pubDate>Sun, 23 Jun 2024 14:21:24 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_raytrace/</guid><description>Ray tracing library using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>RayBNN_Graph</title><link>http://oneapi-community.github.io/projects/raybnn_graph/</link><pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_graph/</guid><description>Graph Manipulation Library For GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>RayBNN_Neural</title><link>http://oneapi-community.github.io/projects/raybnn_neural/</link><pubDate>Sun, 23 Jun 2024 14:17:48 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_neural/</guid><description>Neural Networks with Sparse Weights in Rust using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>COMIC IFY oneAPI</title><link>http://oneapi-community.github.io/projects/comic-ify_oneapi/</link><pubDate>Sun, 23 Jun 2024 14:11:46 -0700</pubDate><guid>http://oneapi-community.github.io/projects/comic-ify_oneapi/</guid><description>Lets Make Learning Fun, Forever!</description></item><item><title>vscode oneAPI Extension Pack</title><link>http://oneapi-community.github.io/projects/vscode-oneapi-extension-pack/</link><pubDate>Sun, 23 Jun 2024 14:07:31 -0700</pubDate><guid>http://oneapi-community.github.io/projects/vscode-oneapi-extension-pack/</guid><description>Now all available VSCode extensions for Intel oneAPI Toolkits can be installed with one click.</description></item><item><title>oneAPI Cli</title><link>http://oneapi-community.github.io/projects/oneapi-cli/</link><pubDate>Sun, 23 Jun 2024 14:06:16 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-cli/</guid><description>oneapi-cli is a tool to help you get started with Intel® oneAPI</description></item><item><title>oneAPI Course</title><link>http://oneapi-community.github.io/projects/oneapi-course/</link><pubDate>Sun, 23 Jun 2024 14:03:34 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-course/</guid><description>oneAPI - Data Parallel C++ course for students</description></item><item><title>oneAPI Construction Kit</title><link>http://oneapi-community.github.io/projects/oneapi-construction-kit/</link><pubDate>Sun, 23 Jun 2024 14:00:53 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-construction-kit/</guid><description>The oneAPI Construction Kit is a framework to provide implementations of open standards, such as OpenCL and Vulkan, for a wide range of devices. The oneAPI Construction Kit can be used to build with the oneAPI Toolkit. The oneAPI Toolkit includes support for various open standards, such as OpenMP, SYCL, and DPC++. DPC++ is based on the SYCL programming model, which allows to write single-source C++ code that can target both CPUs and GPUs.</description></item><item><title>Llm.sycl</title><link>http://oneapi-community.github.io/projects/llm.sycl/</link><pubDate>Sun, 23 Jun 2024 13:16:11 -0700</pubDate><guid>http://oneapi-community.github.io/projects/llm.sycl/</guid><description>LLM training using oneAPI</description></item><item><title>Toneapi</title><link>http://oneapi-community.github.io/projects/toneapi/</link><pubDate>Sun, 23 Jun 2024 13:14:07 -0700</pubDate><guid>http://oneapi-community.github.io/projects/toneapi/</guid><description>template wrappers for Intel oneAPI</description></item><item><title>Online Speech Therapist</title><link>http://oneapi-community.github.io/projects/online-speech-therapist/</link><pubDate>Fri, 29 Mar 2024 12:34:35 -0700</pubDate><guid>http://oneapi-community.github.io/projects/online-speech-therapist/</guid><description>Welcome to our platform! Here, we integrate cutting-edge machine learning technology from Hugging Face to assist with speech therapy. Our tools are tailored for doctors, parents, and administrators, making speech assessment and treatment more accessible and efficient. With intuitive features, we simplify addressing speech challenges, ultimately enhancing communication skills. advanced technology to revolutionize speech therapy and improve outcomes for all involved. Innovating Speech Therapy: Introducing Groundbreaking Tools for Assessment and Treatment, Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction</description></item><item><title>Imagine Childworks</title><link>http://oneapi-community.github.io/projects/imagine-childworks/</link><pubDate>Fri, 29 Mar 2024 12:28:19 -0700</pubDate><guid>http://oneapi-community.github.io/projects/imagine-childworks/</guid><description>SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI and ML 🤖 to offer personalized itineraries, route optimization, accommodation suggestions, and real-time updates. hello to seamless adventures with SmartTravel Assistant. ✨</description></item><item><title>Sign Langauge Translator oneAPI</title><link>http://oneapi-community.github.io/projects/sign-langauge-translator-oneapi/</link><pubDate>Fri, 29 Mar 2024 12:24:40 -0700</pubDate><guid>http://oneapi-community.github.io/projects/sign-langauge-translator-oneapi/</guid><description>We will develop a Sign Gesture Language Translator using MediaPipe and the Intel OneAPI Platform. The translator will be able to recognize sign gestures captured from a video stream and convert them into corresponding text or spoken language.</description></item><item><title>Deepfake Detection</title><link>http://oneapi-community.github.io/projects/deepfake-detection/</link><pubDate>Fri, 29 Mar 2024 12:19:35 -0700</pubDate><guid>http://oneapi-community.github.io/projects/deepfake-detection/</guid><description>We&amp;rsquo;ve created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM.In this code, we&amp;rsquo;ve integrated Intel OneAPI ONEDAL for PCA preprocessing by using its PCA implementation. Additionally, we&amp;rsquo;ve imported tbb for potential parallel processing tasks.</description></item><item><title>PC Part Bot</title><link>http://oneapi-community.github.io/projects/pc-part-bot/</link><pubDate>Fri, 29 Mar 2024 12:16:38 -0700</pubDate><guid>http://oneapi-community.github.io/projects/pc-part-bot/</guid><description>This is a project on Generative AI PC Part Recommender Bot developed using Intel oneAPI tools and created with Streamlit.</description></item><item><title>Stable Diffusion Docker</title><link>http://oneapi-community.github.io/projects/stable-diffusion-docker/</link><pubDate>Tue, 23 Jan 2024 13:35:09 -0800</pubDate><guid>http://oneapi-community.github.io/projects/stable-diffusion-docker/</guid><description>Custom build of stable-diffusion-docker-ui with various plugins, ad-hoc compiled (SYCL, CUDA 7.5+PTX, Skylake Server Arch) tensorflow and optimized (RTX 7.5, CUDA+cuDD 11.2, Arch Skylake) OneDNN binaries.</description></item><item><title>Sycl Intel Spec</title><link>http://oneapi-community.github.io/projects/sycl-intel-spec/</link><pubDate>Tue, 23 Jan 2024 13:33:18 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-intel-spec/</guid><description>Repository for running specialization tests over Intel GPUs with SYCL.</description></item><item><title>Sycl_tutorial</title><link>http://oneapi-community.github.io/projects/sycl_tutorial/</link><pubDate>Tue, 23 Jan 2024 13:30:43 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl_tutorial/</guid><description>Sample codes of SYCL.</description></item><item><title>Sycl Ray Tracer</title><link>http://oneapi-community.github.io/projects/sycl-ray-tracer/</link><pubDate>Tue, 23 Jan 2024 13:26:38 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-ray-tracer/</guid><description>Implementation of a GPU-based ray tracer using SYCL and Embree using both megakernel and wavefront approaches.</description></item><item><title>Sycl Bfs</title><link>http://oneapi-community.github.io/projects/sycl-bfs/</link><pubDate>Tue, 23 Jan 2024 13:25:08 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-bfs/</guid><description>A repository containing implementaitons of the BFS with SYCL framework.</description></item><item><title>Diagnosify</title><link>http://oneapi-community.github.io/projects/diagnosify/</link><pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate><guid>http://oneapi-community.github.io/projects/diagnosify/</guid><description>Diagnosify is an innovative brain disease classification project designed to leverage the power of machine learning and Intel® oneAPIs for accurate and efficient brain disease prediction.</description></item><item><title>oneAPI Crop Recommendation Model</title><link>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</link><pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</guid><description>This project focuses on leveraging machine learning to enhance agriculture by recommending crops based on soil characteristics. The initiative employs advanced machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree, to provide precise crop recommendations.</description></item><item><title>Levelzero Jni</title><link>http://oneapi-community.github.io/projects/levelzero-jni/</link><pubDate>Mon, 27 Nov 2023 13:51:28 -0800</pubDate><guid>http://oneapi-community.github.io/projects/levelzero-jni/</guid><description>Intel LevelZero JNI library for TornadoVM</description></item><item><title>oneAPI Hackathon Qa Chatbot</title><link>http://oneapi-community.github.io/projects/oneapi-hackathon-qa-chatbot/</link><pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-hackathon-qa-chatbot/</guid><description>A python application which contains various python libraries which will generate answers based on the question.</description></item><item><title>SYCL FNIRS Motion Detectio</title><link>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</link><pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</guid><description>SYCL machine learning libraries to detect motion detection in fNIRS.</description></item><item><title>MuSYCL</title><link>http://oneapi-community.github.io/projects/musycl/</link><pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate><guid>http://oneapi-community.github.io/projects/musycl/</guid><description>This is a small music synthesizer to experiment with C++23 programming, design patterns and acceleration on hardware accelerators like GPU, FPGA or CGRA with the SYCL 2020 standard.</description></item><item><title>Sycl Collision Sim</title><link>http://oneapi-community.github.io/projects/sycl-collision-sim/</link><pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-collision-sim/</guid><description>Example SYCL implementation of collision detection</description></item><item><title>SYCL Ray Tracing</title><link>http://oneapi-community.github.io/projects/sycl-ray-tracing/</link><pubDate>Tue, 14 Nov 2023 15:10:55 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-ray-tracing/</guid><description>Ray tracing using SYCL.</description></item><item><title>Parallel Spmv Sycl Multi Queue</title><link>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</link><pubDate>Tue, 14 Nov 2023 15:08:34 -0800</pubDate><guid>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</guid><description>Sylc version of parallelSpnv using multiple queues for the solution</description></item><item><title>Dwarf Bench</title><link>http://oneapi-community.github.io/projects/dwarf-bench/</link><pubDate>Tue, 14 Nov 2023 15:07:03 -0800</pubDate><guid>http://oneapi-community.github.io/projects/dwarf-bench/</guid><description>“Dwarf bench” is a collection of patterns that attempt to capture performance characteristics of analytical queries. The idea is to extend the taxonomy of computational patterns defined in the article “The Landscape of Parallel Computing Research” published in 2006 to data analytics in heterogeneous environments. Implementing basic structures and algorithms once for multiple devices strives to find a balance between performance and specific capabilities usage, and implementation effort. We chose platform-agnostic tools to express our language of patterns (OpenCL, SYCL).</description></item><item><title>VapourSynth BilateralGPU</title><link>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</link><pubDate>Tue, 14 Nov 2023 15:04:45 -0800</pubDate><guid>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</guid><description>Bilateral filter is a non-linear, edge-preserving and noise-reducing smoothing filter for images.
-The intensity value at each pixel in an image is replaced by a weighted average of intensity values from nearby pixels. This weight can be based on a Gaussian distribution.</description></item><item><title>Altis Sycl</title><link>http://oneapi-community.github.io/projects/altis-sycl/</link><pubDate>Tue, 14 Nov 2023 12:51:11 -0800</pubDate><guid>http://oneapi-community.github.io/projects/altis-sycl/</guid><description>Altis-SYCL is a SYCL-based implementation of the Altis GPGPU benchmark suite (originally written in CUDA) for CPUs, GPUs, and FPGAs.
-Altis-SYCL has been migrated from CUDA using the DPC++ Compatibility Tool (DPCT) of oneAPI v2022.1. Our main focus is to evaluate the performance of these GPU-tailored SYCL kernels and to investigate their optimization potential for FPGAs. For some cases, minor code changes were made to speedup the FPGA port as our interest lies in the achievable performance without major rework of the kernels.</description></item><item><title>Neural Network Sim</title><link>http://oneapi-community.github.io/projects/neural-network-sim/</link><pubDate>Wed, 01 Nov 2023 16:50:42 -0700</pubDate><guid>http://oneapi-community.github.io/projects/neural-network-sim/</guid><description>Neural Network Simulation Written in C++ using Intel OneAPI and ImGUI Libraries.</description></item><item><title>RayBNN_Sparse</title><link>http://oneapi-community.github.io/projects/raybnn_sparse/</link><pubDate>Wed, 01 Nov 2023 12:49:22 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_sparse/</guid><description>Sparse Matrix Library for GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI.</description></item><item><title>Sycl Test Offload</title><link>http://oneapi-community.github.io/projects/sycl-test-offload/</link><pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate><guid>http://oneapi-community.github.io/projects/sycl-test-offload/</guid><description>A sandbox for testing a SYCL-enabled DLL + a non-SYCL test program.</description></item><item><title>Xpu</title><link>http://oneapi-community.github.io/projects/xpu/</link><pubDate>Wed, 01 Nov 2023 08:57:31 -0700</pubDate><guid>http://oneapi-community.github.io/projects/xpu/</guid><description>Compile and run C++ code with CUDA, HIP, SYCL or OpenMP.</description></item><item><title>DPCPP Svm</title><link>http://oneapi-community.github.io/projects/dpcpp-svm/</link><pubDate>Tue, 31 Oct 2023 17:33:00 -0700</pubDate><guid>http://oneapi-community.github.io/projects/dpcpp-svm/</guid><description>The mission of ThunderSVM is to help users easily and efficiently apply SVMs to solve problems. ThunderSVM exploits GPUs and multi-core CPUs to achieve high efficiency. Key features of ThunderSVM are as follows.</description></item><item><title>OneAPI FPGA</title><link>http://oneapi-community.github.io/projects/oneapi-fpga/</link><pubDate>Tue, 31 Oct 2023 13:59:37 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-fpga/</guid><description>Developing Applications using Intel® oneAPI for FPGAs</description></item><item><title>OneAPI Crystal</title><link>http://oneapi-community.github.io/projects/oneapi-crystal/</link><pubDate>Tue, 31 Oct 2023 12:55:25 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-crystal/</guid><description>SYCL implementation of the Crystal library for SQL queries on GPU and CPU, based on http://anilshanbhag.in/static/papers/crystal_sigmod20.pdf</description></item><item><title>Oneapi Dct</title><link>http://oneapi-community.github.io/projects/oneapi-dct/</link><pubDate>Tue, 31 Oct 2023 12:41:44 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-dct/</guid><description>Use OneAPI to implement the DCT algorithm. Reference from Intel OneAPI Github.</description></item><item><title>Onevpl Rs</title><link>http://oneapi-community.github.io/projects/onevpl-rs/</link><pubDate>Tue, 31 Oct 2023 12:38:49 -0700</pubDate><guid>http://oneapi-community.github.io/projects/onevpl-rs/</guid><description>A rust wrapper around the Intel OneAPI Video Processing Library</description></item><item><title>Accelerating Deep Learning Classification Wiwth Intel OneAPI</title><link>http://oneapi-community.github.io/projects/accelerating-deep-learning-classification-wiwth-intel-oneapi/</link><pubDate>Tue, 31 Oct 2023 11:52:13 -0700</pubDate><guid>http://oneapi-community.github.io/projects/accelerating-deep-learning-classification-wiwth-intel-oneapi/</guid><description>Image classification is a significant task in the field of deep learning. However, deep learning models usually require substantial computational resources. To address this, this article introduces how to use Intel oneAPI tools, especially Intel® AI Analytics Toolkit, to accelerate deep learning image classification tasks. We will build a simple Convolutional Neural Network (CNN) and train it to classify images.</description></item><item><title>OneMD</title><link>http://oneapi-community.github.io/projects/onemd/</link><pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate><guid>http://oneapi-community.github.io/projects/onemd/</guid><description>oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.</description></item><item><title>oneAPI Samples Feb2022</title><link>http://oneapi-community.github.io/projects/oneapi-samples-feb2022/</link><pubDate>Mon, 30 Oct 2023 11:26:27 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-samples-feb2022/</guid><description>The oneAPI samples repository provides code samples for Intel oneAPI toolkits.</description></item><item><title>TMIP 2019 NCoV Recognition</title><link>http://oneapi-community.github.io/projects/tmip-2019-ncov-recognition/</link><pubDate>Mon, 30 Oct 2023 11:19:26 -0700</pubDate><guid>http://oneapi-community.github.io/projects/tmip-2019-ncov-recognition/</guid><description>We propose the use of Deep Neural Networks, as an initial experiment we used ChexNeXt Pneumonia Detection Model as the baseline architecture where we use transfer learning to detect pneumonia. Secondly we use three different convolutional neural network architectures (ResNet50, InceptionV3 and Inception-ResNetV2) for the detection of coronavirus pneumonia infected patients using chest X-ray radiographs.</description></item><item><title>Numpy Mkl Wheels</title><link>http://oneapi-community.github.io/projects/numpy-mkl-wheels/</link><pubDate>Mon, 30 Oct 2023 11:15:47 -0700</pubDate><guid>http://oneapi-community.github.io/projects/numpy-mkl-wheels/</guid><description>This repository provides unofficial binary wheels for open-source extension packages for Python on Windows, linked to the Intel(r) oneAPI Math Kernel Library (oneAPI MKL).</description></item><item><title>Mkl Verbose Toolkit</title><link>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</link><pubDate>Mon, 30 Oct 2023 11:12:34 -0700</pubDate><guid>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</guid><description>We propose script to facilitate the generation and the parsing of Math Verbose log file:
-To parse the log file and generate summary tables, use mkl_parse.py or cublas_parse.py To restrict the verbosity for one MPI_RANK, use mkl_hook wrapper.</description></item><item><title>Bangalore House Price Prediction with oneAPI</title><link>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</link><pubDate>Mon, 30 Oct 2023 11:10:26 -0700</pubDate><guid>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</guid><description>To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.</description></item><item><title>Crop prediction oneAPI</title><link>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</link><pubDate>Mon, 30 Oct 2023 11:05:41 -0700</pubDate><guid>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</guid><description>The crop recommendation application is a cutting-edge tool that helps farmers make informed decisions about what crops to grow. The application leverages machine learning algorithms to provide customized crop recommendations based on the soil data provided by the user.</description></item><item><title>oneAPI Antispoofing</title><link>http://oneapi-community.github.io/projects/oneapi-antispoofing/</link><pubDate>Mon, 18 Sep 2023 12:41:18 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-antispoofing/</guid><description>Certiface AntiSpoofing use oneAPI for fast decode video for perform liveness detection with inference.</description></item><item><title>Hias All oneAPI Classifier</title><link>http://oneapi-community.github.io/projects/hias-all-oneapi-classifier/</link><pubDate>Mon, 18 Sep 2023 12:39:10 -0700</pubDate><guid>http://oneapi-community.github.io/projects/hias-all-oneapi-classifier/</guid><description>A HIAS compatible Acute Lymphoblastic Leukemia classifier trained using Intel Distribution for Python and Intel Optimized Tensorflow. Uses OpenVINO to deploy the model to a Raspberry Pi and Neural Compute Stick 2 for inference on the edge.</description></item><item><title>Open Gesture for African Sign Language</title><link>http://oneapi-community.github.io/projects/african-machine-intelligence/</link><pubDate>Mon, 18 Sep 2023 12:34:39 -0700</pubDate><guid>http://oneapi-community.github.io/projects/african-machine-intelligence/</guid><description>This project provides Python code to recognize African Sign Language gestures for numbers using OpenCV AI Kit: OAK—D depth cameras. Additionally, this project showcases the utility of convolutional neural networks as a key component of real-time gesture classification pipelines using Intel OpenVINO.</description></item><item><title>Cleansweep</title><link>http://oneapi-community.github.io/projects/cleansweep/</link><pubDate>Mon, 18 Sep 2023 12:32:56 -0700</pubDate><guid>http://oneapi-community.github.io/projects/cleansweep/</guid><description>CleanSweep.AI uses the OpenVINO toolkit to optimize the processing of the object detection model to detect the scattared garbage from the input video.</description></item><item><title>Lunar Model oneAPI</title><link>http://oneapi-community.github.io/projects/lunar-model-oneapi/</link><pubDate>Mon, 18 Sep 2023 12:29:46 -0700</pubDate><guid>http://oneapi-community.github.io/projects/lunar-model-oneapi/</guid><description>Our project lunar api as established in the documentation uses Segmentation model that is developed using CNN in a U-net Architecture.</description></item><item><title>Breast Cancer With oneAPI</title><link>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</link><pubDate>Mon, 18 Sep 2023 12:21:25 -0700</pubDate><guid>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</guid><description>Logistic regression can identify important predictors of breast cancer using odds ratios and generate confidence intervals that provide additional information for decision-making. Model</description></item><item><title>Smart Garbage Segregation</title><link>http://oneapi-community.github.io/projects/smart-garbage-segregation/</link><pubDate>Mon, 18 Sep 2023 12:16:00 -0700</pubDate><guid>http://oneapi-community.github.io/projects/smart-garbage-segregation/</guid><description>Image classification for recycling refers to the use of machine learning algorithms to automatically classify images of waste materials, such as plastic, paper, and metal, into their respective categories.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/projects/</link>
+    <description>Recent content in Projects on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 12:04:00 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parallel computing in practice</title>
+      <link>http://oneapi-community.github.io/projects/parallel_computing_in_practice/</link>
+      <pubDate>Fri, 13 Dec 2024 12:04:00 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/parallel_computing_in_practice/</guid>
+      <description>&lt;p&gt;Examples of deploying and computing with SYCL, OpenCL, Level Zero and OpenMP on GPU devices for enhanced parallel performance&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setup oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/setup-oneapi/</link>
+      <pubDate>Fri, 13 Dec 2024 11:52:27 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/setup-oneapi/</guid>
+      <description>&lt;p&gt;oneapi installer for github actions&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL IntelGPU Quickstart</title>
+      <link>http://oneapi-community.github.io/projects/sycl-intelgpu-quickstart/</link>
+      <pubDate>Fri, 13 Dec 2024 11:51:22 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-intelgpu-quickstart/</guid>
+      <description>&lt;p&gt;This project demonstrates a minimal setup for SYCL programming using Intel’s oneAPI DPC++ compiler, avoiding the complexity (and error-prone / misconfigured) use of the provided CMake-based setups in Intel&amp;rsquo;s official samples. The src directory contains the example programs, and the build directory is used for compiling and running them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loan Acceptance Using ML</title>
+      <link>http://oneapi-community.github.io/projects/loan-acceptance-using-ml/</link>
+      <pubDate>Fri, 13 Dec 2024 11:48:55 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/loan-acceptance-using-ml/</guid>
+      <description>&lt;p&gt;Machine Learning project for Loan Acceptance prediction with OneAPI optimization&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EDITH Even Deaf I M the Hero  Project_OneAPI_Hack_KPR</title>
+      <link>http://oneapi-community.github.io/projects/edith-even-deaf-i-m-the-hero--project_oneapi_hack_kpr/</link>
+      <pubDate>Fri, 13 Dec 2024 11:47:03 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/edith-even-deaf-i-m-the-hero--project_oneapi_hack_kpr/</guid>
+      <description>&lt;p&gt;To develop an efficient model of a Sign Language interpreter exclusive for Indian Sign Language(ISL)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI Early Warning System Waste Water Analysis</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-early-warning-system-waste-water-analysis/</link>
+      <pubDate>Fri, 13 Dec 2024 11:41:46 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-early-warning-system-waste-water-analysis/</guid>
+      <description>&lt;p&gt;The AI-Powered Early Warning System leverages cutting-edge technologies, including Intel oneAPI, to analyze wastewater data and detect early signs of infectious diseases, antibiotic resistance, and emerging health threats. This revolutionary system provides a proactive approach to safeguarding public health by predicting outbreaks before they escalate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oneapi Ai and Hpc Devsummit Workshop</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-ai-and-hpc-devsummit-workshop/</link>
+      <pubDate>Fri, 13 Dec 2024 11:39:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-ai-and-hpc-devsummit-workshop/</guid>
+      <description>&lt;p&gt;LLM Custom Chatbot development with Huggingface opensource Mistral 7B model with Intel Developer Cloud (IDC)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Visionsycl</title>
+      <link>http://oneapi-community.github.io/projects/visionsycl/</link>
+      <pubDate>Fri, 13 Dec 2024 11:38:06 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/visionsycl/</guid>
+      <description>&lt;p&gt;Attempt to provide common image processing functions that runs on heterogeneous devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One4all</title>
+      <link>http://oneapi-community.github.io/projects/one4all/</link>
+      <pubDate>Fri, 13 Dec 2024 11:35:09 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/one4all/</guid>
+      <description>&lt;p&gt;A framework to streamline developing for CUDA, ROCm and oneAPI at the same time&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hsm</title>
+      <link>http://oneapi-community.github.io/projects/hsm/</link>
+      <pubDate>Fri, 13 Dec 2024 11:25:06 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/hsm/</guid>
+      <description>&lt;p&gt;A high-performance C++ cryptography library for secure data encryption and decryption, developed with multithreading, GPU acceleration via Intel oneAPI, and gRPC for authenticated communication with hardware components.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insruance Fraud Detection</title>
+      <link>http://oneapi-community.github.io/projects/insruance-fraud-detection/</link>
+      <pubDate>Fri, 04 Oct 2024 19:42:11 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/insruance-fraud-detection/</guid>
+      <description>&lt;p&gt;Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fpga Streams Bandwidth</title>
+      <link>http://oneapi-community.github.io/projects/fpga-streams-bandwidth/</link>
+      <pubDate>Fri, 04 Oct 2024 19:38:07 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/fpga-streams-bandwidth/</guid>
+      <description>&lt;p&gt;Load vs Store comparison on Intel FPGA using oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Mapping Api Scanner</title>
+      <link>http://oneapi-community.github.io/projects/sycl-mapping-api-scanner/</link>
+      <pubDate>Fri, 04 Oct 2024 19:35:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-mapping-api-scanner/</guid>
+      <description>&lt;p&gt;A utility to help analyze CUDA-SYCL migration projects and provide a summary report regarding the current support status of SYCL mapping/migration APIs tracked by Intel SYCLomatic open source project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Self Organisation Vi</title>
+      <link>http://oneapi-community.github.io/projects/data-self-organisation-vi/</link>
+      <pubDate>Fri, 04 Oct 2024 19:33:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/data-self-organisation-vi/</guid>
+      <description>&lt;p&gt;Genetic algorithms &amp;amp; cellular automa learning experiments&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Water Quality Analysis and Prediction</title>
+      <link>http://oneapi-community.github.io/projects/water-quality-analysis-and-prediction/</link>
+      <pubDate>Fri, 04 Oct 2024 19:30:15 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/water-quality-analysis-and-prediction/</guid>
+      <description>&lt;p&gt;A water quality analysis and prediction system using Intel&amp;rsquo;s oneAPI Data Analytics Library and traditional Python libraries. The project involves exploring a large-scale water quality dataset, conducting thorough data cleaning, and implementing a machine learning model for predicting water quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RVCE Stock Market Prediction</title>
+      <link>http://oneapi-community.github.io/projects/rvce-stock-market-prediction/</link>
+      <pubDate>Fri, 04 Oct 2024 19:24:29 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/rvce-stock-market-prediction/</guid>
+      <description>&lt;p&gt;This repository contains the implementation of a stock market prediction model for Microsoft stocks, developed as part of the Intel OneAPI AI Analytics Toolkit Hackathon. The project leverages advanced AI techniques and the Intel OneAPI AI Analytics Toolkit to train and deploy predictive models, aiming to forecast Microsoft stock prices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vivid OneAPI JSupercomputing</title>
+      <link>http://oneapi-community.github.io/projects/vivid-oneapi-jsupercomputing/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/vivid-oneapi-jsupercomputing/</guid>
+      <description>&lt;p&gt;The ViVid project aims to improve the implementation and optimization of algorithms for handling massive data flows, using oneAPI in heterogeneous architectures, mainly with CPU+GPU, and eventually FPGA. The methodology consists of selecting appropriate algorithms, developing code and dependencies using oneAPI, identifying and solving performance bottlenecks, and maximizing parallelization. Our goal is to achieve significant advances in real-time processing of large volumes of data, efficiently leveraging the performance of state-of-the-art heterogeneous architectures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL CLUE</title>
+      <link>http://oneapi-community.github.io/projects/sycl-clue/</link>
+      <pubDate>Fri, 04 Oct 2024 19:16:10 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-clue/</guid>
+      <description>&lt;p&gt;Testing physics implementation of SYCL and OneApi using CLUE&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AcceleratedKernels.jl</title>
+      <link>http://oneapi-community.github.io/projects/acceleratedkernels.jl/</link>
+      <pubDate>Fri, 04 Oct 2024 18:33:51 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/acceleratedkernels.jl/</guid>
+      <description>&lt;p&gt;Cross-architecture parallel algorithms for Julia&amp;rsquo;s GPU backends, from a unified KernelAbstractions.jl codebase. Targets Intel oneAPI, AMD ROCm, Apple Metal, Nvidia CUDA.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Llama Cpp Mkl Docker</title>
+      <link>http://oneapi-community.github.io/projects/llama-cpp-mkl-docker/</link>
+      <pubDate>Fri, 04 Oct 2024 18:29:23 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/llama-cpp-mkl-docker/</guid>
+      <description>&lt;p&gt;From Scratch&amp;quot; build of containerized LLAMA.CPP optimized for Intel CPUs, using Intel OneAPI/MKL&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cardiovascular Risk Prediction oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/cardiovascular-risk-prediction-oneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 15:40:42 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/cardiovascular-risk-prediction-oneapi/</guid>
+      <description>&lt;p&gt;Cardiovascular Risk prediction is crucial for improving health outcomes, saving lives, reducing healthcare costs, and promoting a healthier society.The leading cause of death in the developed world is heart disease. Therefore there needs to be work done to help prevent the risks of of having a heart attack or stroke.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RUL Prediction From NASA S Dataset for Aircraft Engines Using Intel oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/rul-prediction-from-nasa-s-dataset-for-aircraft-engines-using-intel-oneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 15:37:14 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/rul-prediction-from-nasa-s-dataset-for-aircraft-engines-using-intel-oneapi/</guid>
+      <description>&lt;p&gt;Machinery like Biomedical Recording Instruments often are subject to wear-and-tear and hence this study on Remaining Useful Life (RUL) with NASA dataset on machines under the influence of even external factors influenced while in space can be an eye-opener to enhance the diagnosis accuracy by assisting maintenance using AI to ensure high precision of the biomedical instruments, especially in applications like telemedicine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insurance Fraud Detection OneAPI</title>
+      <link>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/insurance-fraud-detection-oneapi/</guid>
+      <description>&lt;p&gt;Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intel oneAPI Speech Emotion Recognition</title>
+      <link>http://oneapi-community.github.io/projects/intel-oneapi-speech-emotion-recognition/</link>
+      <pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/intel-oneapi-speech-emotion-recognition/</guid>
+      <description>&lt;p&gt;Human-Computer interactions are make it mandatory to get accuracy communications, like both human. If computer identify means we will get clever interaction We might be on the verge of too many screens. It seems like everyday, new versions of common objects are “re-invented” with built-in Wi-Fi and bright touchscreens. A promising antidote to our screen addiction are voice interfaces.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LightWaveExplorer</title>
+      <link>http://oneapi-community.github.io/projects/lightwaveexplorer/</link>
+      <pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/lightwaveexplorer/</guid>
+      <description>&lt;p&gt;Lightwave explorer is an open source nonlinear optics simulator, intended to be fast, visual, and flexible for students and researchers to play with ultrashort laser pulses and nonlinear optics without having to buy a laser first.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Warpaffine</title>
+      <link>http://oneapi-community.github.io/projects/warpaffine/</link>
+      <pubDate>Sun, 23 Jun 2024 15:11:37 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/warpaffine/</guid>
+      <description>&lt;p&gt;This is an experimental effort at implementing a &amp;ldquo;Deskew operation&amp;rdquo; with the best performance possible.&lt;/p&gt;&#xA;&lt;p&gt;With an acquisition from a &lt;a href=&#34;https://www.zeiss.com/microscopy/en/products/light-microscopes/light-sheet-microscopes/lattice-lightsheet-7.html&#34;&gt;Lattice Lightsheet microscope&lt;/a&gt; the image slices are created at a skewed angle. In order to create a regular volumetric image in Cartesian coordinates, the volume needs to undergo a geometric transformation (and affine transformation, hence the name of this project) and needs to be resampled.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN DiffEq</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_diffeq/</link>
+      <pubDate>Sun, 23 Jun 2024 14:47:58 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_diffeq/</guid>
+      <description>&lt;p&gt;Differential Equation Solver using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Raytrace</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_raytrace/</link>
+      <pubDate>Sun, 23 Jun 2024 14:21:24 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_raytrace/</guid>
+      <description>&lt;p&gt;Ray tracing library using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Graph</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_graph/</link>
+      <pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_graph/</guid>
+      <description>&lt;p&gt;Graph Manipulation Library For GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Neural</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_neural/</link>
+      <pubDate>Sun, 23 Jun 2024 14:17:48 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_neural/</guid>
+      <description>&lt;p&gt;Neural Networks with Sparse Weights in Rust using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>COMIC IFY oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/comic-ify_oneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 14:11:46 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/comic-ify_oneapi/</guid>
+      <description>&lt;p&gt;Lets Make Learning Fun, Forever!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vscode oneAPI Extension Pack</title>
+      <link>http://oneapi-community.github.io/projects/vscode-oneapi-extension-pack/</link>
+      <pubDate>Sun, 23 Jun 2024 14:07:31 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/vscode-oneapi-extension-pack/</guid>
+      <description>&lt;p&gt;Now all available VSCode extensions for Intel oneAPI Toolkits can be installed with one click.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Cli</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-cli/</link>
+      <pubDate>Sun, 23 Jun 2024 14:06:16 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-cli/</guid>
+      <description>&lt;p&gt;oneapi-cli is a tool to help you get started with Intel® oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Course</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-course/</link>
+      <pubDate>Sun, 23 Jun 2024 14:03:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-course/</guid>
+      <description>&lt;p&gt;oneAPI - Data Parallel C++ course for students&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Construction Kit</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-construction-kit/</link>
+      <pubDate>Sun, 23 Jun 2024 14:00:53 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-construction-kit/</guid>
+      <description>&lt;p&gt;The oneAPI Construction Kit is a framework to provide implementations of open standards, such as OpenCL and Vulkan, for a wide range of devices. The oneAPI Construction Kit can be used to build with the oneAPI Toolkit. The oneAPI Toolkit includes support for various open standards, such as OpenMP, SYCL, and DPC++. DPC++ is based on the SYCL programming model, which allows to write single-source C++ code that can target both CPUs and GPUs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Llm.sycl</title>
+      <link>http://oneapi-community.github.io/projects/llm.sycl/</link>
+      <pubDate>Sun, 23 Jun 2024 13:16:11 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/llm.sycl/</guid>
+      <description>&lt;p&gt;LLM training using oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toneapi</title>
+      <link>http://oneapi-community.github.io/projects/toneapi/</link>
+      <pubDate>Sun, 23 Jun 2024 13:14:07 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/toneapi/</guid>
+      <description>&lt;p&gt;template wrappers for Intel oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Online Speech Therapist</title>
+      <link>http://oneapi-community.github.io/projects/online-speech-therapist/</link>
+      <pubDate>Fri, 29 Mar 2024 12:34:35 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/online-speech-therapist/</guid>
+      <description>&lt;p&gt;Welcome to our platform! Here, we integrate cutting-edge machine learning technology from Hugging Face to assist with speech therapy. Our tools are tailored for doctors, parents, and administrators, making speech assessment and treatment more accessible and efficient. With intuitive features, we simplify addressing speech challenges, ultimately enhancing communication skills. advanced technology to revolutionize speech therapy and improve outcomes for all involved.&#xA;Innovating Speech Therapy: Introducing Groundbreaking Tools for Assessment and Treatment, Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Imagine Childworks</title>
+      <link>http://oneapi-community.github.io/projects/imagine-childworks/</link>
+      <pubDate>Fri, 29 Mar 2024 12:28:19 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/imagine-childworks/</guid>
+      <description>&lt;p&gt;SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI and ML 🤖 to offer personalized itineraries, route optimization, accommodation suggestions, and real-time updates. hello to seamless adventures with SmartTravel Assistant. ✨&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sign Langauge Translator oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/sign-langauge-translator-oneapi/</link>
+      <pubDate>Fri, 29 Mar 2024 12:24:40 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sign-langauge-translator-oneapi/</guid>
+      <description>&lt;p&gt;We will develop a Sign Gesture Language Translator using MediaPipe and the Intel OneAPI Platform. The translator will be able to recognize sign gestures captured from a video stream and convert them into corresponding text or spoken language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deepfake Detection</title>
+      <link>http://oneapi-community.github.io/projects/deepfake-detection/</link>
+      <pubDate>Fri, 29 Mar 2024 12:19:35 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/deepfake-detection/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM.In this code, we&amp;rsquo;ve integrated Intel OneAPI ONEDAL for PCA preprocessing by using its PCA implementation. Additionally, we&amp;rsquo;ve imported tbb for potential parallel processing tasks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PC Part Bot</title>
+      <link>http://oneapi-community.github.io/projects/pc-part-bot/</link>
+      <pubDate>Fri, 29 Mar 2024 12:16:38 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/pc-part-bot/</guid>
+      <description>&lt;p&gt;This is a project on Generative AI PC Part Recommender Bot developed using Intel oneAPI tools and created with Streamlit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stable Diffusion Docker</title>
+      <link>http://oneapi-community.github.io/projects/stable-diffusion-docker/</link>
+      <pubDate>Tue, 23 Jan 2024 13:35:09 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/stable-diffusion-docker/</guid>
+      <description>&lt;p&gt;Custom build of stable-diffusion-docker-ui with various plugins, ad-hoc compiled (SYCL, CUDA 7.5+PTX, Skylake Server Arch) tensorflow and optimized (RTX 7.5, CUDA+cuDD 11.2, Arch Skylake) OneDNN binaries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Intel Spec</title>
+      <link>http://oneapi-community.github.io/projects/sycl-intel-spec/</link>
+      <pubDate>Tue, 23 Jan 2024 13:33:18 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-intel-spec/</guid>
+      <description>&lt;p&gt;Repository for running specialization tests over Intel GPUs with SYCL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl_tutorial</title>
+      <link>http://oneapi-community.github.io/projects/sycl_tutorial/</link>
+      <pubDate>Tue, 23 Jan 2024 13:30:43 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl_tutorial/</guid>
+      <description>&lt;p&gt;Sample codes of SYCL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Ray Tracer</title>
+      <link>http://oneapi-community.github.io/projects/sycl-ray-tracer/</link>
+      <pubDate>Tue, 23 Jan 2024 13:26:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-ray-tracer/</guid>
+      <description>&lt;p&gt;Implementation of a GPU-based ray tracer using SYCL and Embree using both megakernel and wavefront approaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Bfs</title>
+      <link>http://oneapi-community.github.io/projects/sycl-bfs/</link>
+      <pubDate>Tue, 23 Jan 2024 13:25:08 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-bfs/</guid>
+      <description>&lt;p&gt;A repository containing implementaitons of the BFS with SYCL framework.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diagnosify</title>
+      <link>http://oneapi-community.github.io/projects/diagnosify/</link>
+      <pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/diagnosify/</guid>
+      <description>&lt;p&gt;Diagnosify is an innovative brain disease classification project designed to leverage the power of machine learning and Intel® oneAPIs for accurate and efficient brain disease prediction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Crop Recommendation Model</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</link>
+      <pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</guid>
+      <description>&lt;p&gt;This project focuses on leveraging machine learning to enhance agriculture by recommending crops based on soil characteristics. The initiative employs advanced machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree, to provide precise crop recommendations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Levelzero Jni</title>
+      <link>http://oneapi-community.github.io/projects/levelzero-jni/</link>
+      <pubDate>Mon, 27 Nov 2023 13:51:28 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/levelzero-jni/</guid>
+      <description>&lt;p&gt;Intel LevelZero JNI library for TornadoVM&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Hackathon Qa Chatbot</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-hackathon-qa-chatbot/</link>
+      <pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-hackathon-qa-chatbot/</guid>
+      <description>&lt;p&gt;A python application which contains various python libraries which will&#xA;generate answers based on the question.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL FNIRS Motion Detectio</title>
+      <link>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</link>
+      <pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</guid>
+      <description>&lt;p&gt;SYCL machine learning libraries to detect motion detection in fNIRS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MuSYCL</title>
+      <link>http://oneapi-community.github.io/projects/musycl/</link>
+      <pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/musycl/</guid>
+      <description>&lt;p&gt;This is a small music synthesizer to experiment with C++23 programming,&#xA;design patterns and acceleration on hardware accelerators like GPU,&#xA;FPGA or CGRA with the SYCL 2020 standard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Collision Sim</title>
+      <link>http://oneapi-community.github.io/projects/sycl-collision-sim/</link>
+      <pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-collision-sim/</guid>
+      <description>&lt;p&gt;Example SYCL implementation of collision detection&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL Ray Tracing</title>
+      <link>http://oneapi-community.github.io/projects/sycl-ray-tracing/</link>
+      <pubDate>Tue, 14 Nov 2023 15:10:55 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-ray-tracing/</guid>
+      <description>&lt;p&gt;Ray tracing using SYCL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel Spmv Sycl Multi Queue</title>
+      <link>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</link>
+      <pubDate>Tue, 14 Nov 2023 15:08:34 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/parallel-spmv-sycl-multi-queue/</guid>
+      <description>&lt;p&gt;Sylc version of parallelSpnv using multiple queues for the solution&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dwarf Bench</title>
+      <link>http://oneapi-community.github.io/projects/dwarf-bench/</link>
+      <pubDate>Tue, 14 Nov 2023 15:07:03 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/dwarf-bench/</guid>
+      <description>&lt;p&gt;“Dwarf bench” is a collection of patterns that attempt to capture&#xA;performance characteristics of analytical queries. The idea is to extend&#xA;the taxonomy of computational patterns defined in the article “The&#xA;Landscape of Parallel Computing Research” published in 2006 to data&#xA;analytics in heterogeneous environments. Implementing basic structures&#xA;and algorithms once for multiple devices strives to find a balance&#xA;between performance and specific capabilities usage, and implementation&#xA;effort. We chose platform-agnostic tools to express our language of&#xA;patterns (OpenCL, SYCL).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VapourSynth BilateralGPU</title>
+      <link>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</link>
+      <pubDate>Tue, 14 Nov 2023 15:04:45 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/vapoursynth-bilateralgpu/</guid>
+      <description>&lt;p&gt;Bilateral filter is a non-linear, edge-preserving and noise-reducing&#xA;smoothing filter for images.&lt;/p&gt;&#xA;&lt;p&gt;The intensity value at each pixel in an image is replaced by a weighted&#xA;average of intensity values from nearby pixels. This weight can be based&#xA;on a Gaussian distribution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Altis Sycl</title>
+      <link>http://oneapi-community.github.io/projects/altis-sycl/</link>
+      <pubDate>Tue, 14 Nov 2023 12:51:11 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/altis-sycl/</guid>
+      <description>&lt;p&gt;Altis-SYCL is a SYCL-based implementation of the Altis GPGPU benchmark&#xA;suite (originally written in CUDA) for CPUs, GPUs, and FPGAs.&lt;/p&gt;&#xA;&lt;p&gt;Altis-SYCL has been migrated from CUDA using the DPC++ Compatibility Tool&#xA;(DPCT) of oneAPI v2022.1. Our main focus is to evaluate the performance&#xA;of these GPU-tailored SYCL kernels and to investigate their optimization&#xA;potential for FPGAs. For some cases, minor code changes were made to&#xA;speedup the FPGA port as our interest lies in the achievable performance&#xA;without major rework of the kernels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neural Network Sim</title>
+      <link>http://oneapi-community.github.io/projects/neural-network-sim/</link>
+      <pubDate>Wed, 01 Nov 2023 16:50:42 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/neural-network-sim/</guid>
+      <description>&lt;p&gt;Neural Network Simulation Written in C++ using Intel OneAPI and ImGUI Libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Sparse</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_sparse/</link>
+      <pubDate>Wed, 01 Nov 2023 12:49:22 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_sparse/</guid>
+      <description>&lt;p&gt;Sparse Matrix Library for GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Test Offload</title>
+      <link>http://oneapi-community.github.io/projects/sycl-test-offload/</link>
+      <pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-test-offload/</guid>
+      <description>&lt;p&gt;A sandbox for testing a SYCL-enabled DLL + a non-SYCL test program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xpu</title>
+      <link>http://oneapi-community.github.io/projects/xpu/</link>
+      <pubDate>Wed, 01 Nov 2023 08:57:31 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/xpu/</guid>
+      <description>&lt;p&gt;Compile and run C++ code with CUDA, HIP, SYCL or OpenMP.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DPCPP Svm</title>
+      <link>http://oneapi-community.github.io/projects/dpcpp-svm/</link>
+      <pubDate>Tue, 31 Oct 2023 17:33:00 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/dpcpp-svm/</guid>
+      <description>&lt;p&gt;The mission of ThunderSVM is to help users easily and efficiently apply SVMs to solve problems. ThunderSVM exploits GPUs and multi-core CPUs to achieve high efficiency. Key features of ThunderSVM are as follows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI FPGA</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-fpga/</link>
+      <pubDate>Tue, 31 Oct 2023 13:59:37 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-fpga/</guid>
+      <description>&lt;p&gt;Developing Applications using Intel® oneAPI for FPGAs&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI Crystal</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-crystal/</link>
+      <pubDate>Tue, 31 Oct 2023 12:55:25 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-crystal/</guid>
+      <description>&lt;p&gt;SYCL implementation of the Crystal library for SQL queries on GPU and CPU, based on &lt;a href=&#34;http://anilshanbhag.in/static/papers/crystal_sigmod20.pdf&#34;&gt;http://anilshanbhag.in/static/papers/crystal_sigmod20.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oneapi Dct</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-dct/</link>
+      <pubDate>Tue, 31 Oct 2023 12:41:44 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-dct/</guid>
+      <description>&lt;p&gt;Use OneAPI to implement the DCT algorithm. Reference from Intel OneAPI Github.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Onevpl Rs</title>
+      <link>http://oneapi-community.github.io/projects/onevpl-rs/</link>
+      <pubDate>Tue, 31 Oct 2023 12:38:49 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/onevpl-rs/</guid>
+      <description>&lt;p&gt;A rust wrapper around the Intel OneAPI Video Processing Library&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneMD</title>
+      <link>http://oneapi-community.github.io/projects/onemd/</link>
+      <pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/onemd/</guid>
+      <description>&lt;p&gt;oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Samples Feb2022</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-samples-feb2022/</link>
+      <pubDate>Mon, 30 Oct 2023 11:26:27 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-samples-feb2022/</guid>
+      <description>&lt;p&gt;The oneAPI samples repository provides code samples for Intel oneAPI toolkits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TMIP 2019 NCoV Recognition</title>
+      <link>http://oneapi-community.github.io/projects/tmip-2019-ncov-recognition/</link>
+      <pubDate>Mon, 30 Oct 2023 11:19:26 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/tmip-2019-ncov-recognition/</guid>
+      <description>&lt;p&gt;We propose the use of Deep Neural Networks, as an initial experiment we&#xA;used ChexNeXt Pneumonia Detection Model as the baseline architecture&#xA;where we use transfer learning to detect pneumonia. Secondly we use&#xA;three different convolutional neural network architectures (ResNet50,&#xA;InceptionV3 and Inception-ResNetV2) for the detection of coronavirus&#xA;pneumonia infected patients using chest X-ray radiographs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Numpy Mkl Wheels</title>
+      <link>http://oneapi-community.github.io/projects/numpy-mkl-wheels/</link>
+      <pubDate>Mon, 30 Oct 2023 11:15:47 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/numpy-mkl-wheels/</guid>
+      <description>&lt;p&gt;This repository provides unofficial binary wheels for open-source&#xA;extension packages for Python on Windows, linked to the Intel(r) oneAPI&#xA;Math Kernel Library (oneAPI MKL).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mkl Verbose Toolkit</title>
+      <link>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</link>
+      <pubDate>Mon, 30 Oct 2023 11:12:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/mkl-verbose-toolkit/</guid>
+      <description>&lt;p&gt;We propose script to facilitate the generation and the parsing of Math Verbose log file:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;To parse the log file and generate summary tables, use mkl_parse.py or cublas_parse.py&lt;/li&gt;&#xA;&lt;li&gt;To restrict the verbosity for one MPI_RANK, use mkl_hook wrapper.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Bangalore House Price Prediction with oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</link>
+      <pubDate>Mon, 30 Oct 2023 11:10:26 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/bangalore_house_price_prediction_oneapi/</guid>
+      <description>&lt;p&gt;To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crop prediction oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</link>
+      <pubDate>Mon, 30 Oct 2023 11:05:41 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/crop_prediction_oneapi/</guid>
+      <description>&lt;p&gt;The crop recommendation application is a cutting-edge tool that helps farmers make informed decisions about what crops to grow. The application leverages machine learning algorithms to provide customized crop recommendations based on the soil data provided by the user.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Antispoofing</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-antispoofing/</link>
+      <pubDate>Mon, 18 Sep 2023 12:41:18 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-antispoofing/</guid>
+      <description>&lt;p&gt;Certiface AntiSpoofing use oneAPI for fast decode video for perform liveness detection with inference.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hias All oneAPI Classifier</title>
+      <link>http://oneapi-community.github.io/projects/hias-all-oneapi-classifier/</link>
+      <pubDate>Mon, 18 Sep 2023 12:39:10 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/hias-all-oneapi-classifier/</guid>
+      <description>&lt;p&gt;A HIAS compatible Acute Lymphoblastic Leukemia classifier trained using Intel Distribution for Python and Intel Optimized Tensorflow. Uses OpenVINO to deploy the model to a Raspberry Pi and Neural Compute Stick 2 for inference on the edge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Gesture for African Sign Language</title>
+      <link>http://oneapi-community.github.io/projects/african-machine-intelligence/</link>
+      <pubDate>Mon, 18 Sep 2023 12:34:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/african-machine-intelligence/</guid>
+      <description>&lt;p&gt;This project provides Python code to recognize African Sign Language gestures for numbers using OpenCV AI Kit: OAK—D depth cameras. Additionally, this project showcases the utility of convolutional neural networks as a key component of real-time gesture classification pipelines using Intel OpenVINO.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cleansweep</title>
+      <link>http://oneapi-community.github.io/projects/cleansweep/</link>
+      <pubDate>Mon, 18 Sep 2023 12:32:56 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/cleansweep/</guid>
+      <description>&lt;p&gt;CleanSweep.AI uses the OpenVINO toolkit to optimize the processing of the object detection model to detect the scattared garbage from the input video.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lunar Model oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/lunar-model-oneapi/</link>
+      <pubDate>Mon, 18 Sep 2023 12:29:46 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/lunar-model-oneapi/</guid>
+      <description>&lt;p&gt;Our project lunar api as established in the documentation uses Segmentation model that is developed using CNN in a U-net Architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Breast Cancer With oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</link>
+      <pubDate>Mon, 18 Sep 2023 12:21:25 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</guid>
+      <description>&lt;p&gt;Logistic regression can identify important predictors of breast cancer using odds ratios and generate confidence intervals that provide additional information for decision-making. Model&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Smart Garbage Segregation</title>
+      <link>http://oneapi-community.github.io/projects/smart-garbage-segregation/</link>
+      <pubDate>Mon, 18 Sep 2023 12:16:00 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/smart-garbage-segregation/</guid>
+      <description>&lt;p&gt;Image classification for recycling refers to the use of machine learning algorithms to automatically classify images of waste materials, such as plastic, paper, and metal, into their respective categories.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

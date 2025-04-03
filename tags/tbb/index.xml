@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tbb on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/tbb/</link><description>Recent content in Tbb on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:11:37 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/tbb/index.xml" rel="self" type="application/rss+xml"/><item><title>Warpaffine</title><link>http://oneapi-community.github.io/projects/warpaffine/</link><pubDate>Sun, 23 Jun 2024 15:11:37 -0700</pubDate><guid>http://oneapi-community.github.io/projects/warpaffine/</guid><description>This is an experimental effort at implementing a &amp;ldquo;Deskew operation&amp;rdquo; with the best performance possible.
-With an acquisition from a Lattice Lightsheet microscope the image slices are created at a skewed angle. In order to create a regular volumetric image in Cartesian coordinates, the volume needs to undergo a geometric transformation (and affine transformation, hence the name of this project) and needs to be resampled.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tbb on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/tbb/</link>
+    <description>Recent content in Tbb on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:19:06 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/tbb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivid OneAPI JSupercomputing</title>
+      <link>http://oneapi-community.github.io/projects/vivid-oneapi-jsupercomputing/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/vivid-oneapi-jsupercomputing/</guid>
+      <description>&lt;p&gt;The ViVid project aims to improve the implementation and optimization of algorithms for handling massive data flows, using oneAPI in heterogeneous architectures, mainly with CPU+GPU, and eventually FPGA. The methodology consists of selecting appropriate algorithms, developing code and dependencies using oneAPI, identifying and solving performance bottlenecks, and maximizing parallelization. Our goal is to achieve significant advances in real-time processing of large volumes of data, efficiently leveraging the performance of state-of-the-art heterogeneous architectures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Warpaffine</title>
+      <link>http://oneapi-community.github.io/projects/warpaffine/</link>
+      <pubDate>Sun, 23 Jun 2024 15:11:37 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/warpaffine/</guid>
+      <description>&lt;p&gt;This is an experimental effort at implementing a &amp;ldquo;Deskew operation&amp;rdquo; with the best performance possible.&lt;/p&gt;&#xA;&lt;p&gt;With an acquisition from a &lt;a href=&#34;https://www.zeiss.com/microscopy/en/products/light-microscopes/light-sheet-microscopes/lattice-lightsheet-7.html&#34;&gt;Lattice Lightsheet microscope&lt;/a&gt; the image slices are created at a skewed angle. In order to create a regular volumetric image in Cartesian coordinates, the volume needs to undergo a geometric transformation (and affine transformation, hence the name of this project) and needs to be resampled.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

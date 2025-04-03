@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python, Onedal, Onetbb on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/python-onedal-onetbb/</link><description>Recent content in Python, Onedal, Onetbb on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 12:19:35 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/python-onedal-onetbb/index.xml" rel="self" type="application/rss+xml"/><item><title>Deepfake Detection</title><link>http://oneapi-community.github.io/projects/deepfake-detection/</link><pubDate>Fri, 29 Mar 2024 12:19:35 -0700</pubDate><guid>http://oneapi-community.github.io/projects/deepfake-detection/</guid><description>We&amp;rsquo;ve created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM.In this code, we&amp;rsquo;ve integrated Intel OneAPI ONEDAL for PCA preprocessing by using its PCA implementation. Additionally, we&amp;rsquo;ve imported tbb for potential parallel processing tasks.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python, Onedal, Onetbb on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/python-onedal-onetbb/</link>
+    <description>Recent content in Python, Onedal, Onetbb on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 12:19:35 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/python-onedal-onetbb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepfake Detection</title>
+      <link>http://oneapi-community.github.io/projects/deepfake-detection/</link>
+      <pubDate>Fri, 29 Mar 2024 12:19:35 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/deepfake-detection/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM.In this code, we&amp;rsquo;ve integrated Intel OneAPI ONEDAL for PCA preprocessing by using its PCA implementation. Additionally, we&amp;rsquo;ve imported tbb for potential parallel processing tasks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

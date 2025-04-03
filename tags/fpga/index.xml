@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fpga on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/fpga/</link><description>Recent content in Fpga on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 14:21:24 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml"/><item><title>RayBNN_Raytrace</title><link>http://oneapi-community.github.io/projects/raybnn_raytrace/</link><pubDate>Sun, 23 Jun 2024 14:21:24 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_raytrace/</guid><description>Ray tracing library using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>RayBNN_Graph</title><link>http://oneapi-community.github.io/projects/raybnn_graph/</link><pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_graph/</guid><description>Graph Manipulation Library For GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>RayBNN_Neural</title><link>http://oneapi-community.github.io/projects/raybnn_neural/</link><pubDate>Sun, 23 Jun 2024 14:17:48 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_neural/</guid><description>Neural Networks with Sparse Weights in Rust using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item><item><title>RayBNN_Sparse</title><link>http://oneapi-community.github.io/projects/raybnn_sparse/</link><pubDate>Wed, 01 Nov 2023 12:49:22 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_sparse/</guid><description>Sparse Matrix Library for GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI.</description></item><item><title>OneAPI FPGA</title><link>http://oneapi-community.github.io/projects/oneapi-fpga/</link><pubDate>Tue, 31 Oct 2023 13:59:37 -0700</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-fpga/</guid><description>Developing Applications using Intel® oneAPI for FPGAs</description></item><item><title>OneMD</title><link>http://oneapi-community.github.io/projects/onemd/</link><pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate><guid>http://oneapi-community.github.io/projects/onemd/</guid><description>oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fpga on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/fpga/</link>
+    <description>Recent content in Fpga on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:38:07 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fpga Streams Bandwidth</title>
+      <link>http://oneapi-community.github.io/projects/fpga-streams-bandwidth/</link>
+      <pubDate>Fri, 04 Oct 2024 19:38:07 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/fpga-streams-bandwidth/</guid>
+      <description>&lt;p&gt;Load vs Store comparison on Intel FPGA using oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Raytrace</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_raytrace/</link>
+      <pubDate>Sun, 23 Jun 2024 14:21:24 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_raytrace/</guid>
+      <description>&lt;p&gt;Ray tracing library using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Graph</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_graph/</link>
+      <pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_graph/</guid>
+      <description>&lt;p&gt;Graph Manipulation Library For GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Neural</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_neural/</link>
+      <pubDate>Sun, 23 Jun 2024 14:17:48 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_neural/</guid>
+      <description>&lt;p&gt;Neural Networks with Sparse Weights in Rust using GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RayBNN_Sparse</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_sparse/</link>
+      <pubDate>Wed, 01 Nov 2023 12:49:22 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_sparse/</guid>
+      <description>&lt;p&gt;Sparse Matrix Library for GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneAPI FPGA</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-fpga/</link>
+      <pubDate>Tue, 31 Oct 2023 13:59:37 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-fpga/</guid>
+      <description>&lt;p&gt;Developing Applications using Intel® oneAPI for FPGAs&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneMD</title>
+      <link>http://oneapi-community.github.io/projects/onemd/</link>
+      <pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/onemd/</guid>
+      <description>&lt;p&gt;oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

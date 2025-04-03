@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Image-Processing on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/image-processing/</link><description>Recent content in Image-Processing on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:11:37 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml"/><item><title>Warpaffine</title><link>http://oneapi-community.github.io/projects/warpaffine/</link><pubDate>Sun, 23 Jun 2024 15:11:37 -0700</pubDate><guid>http://oneapi-community.github.io/projects/warpaffine/</guid><description>This is an experimental effort at implementing a &amp;ldquo;Deskew operation&amp;rdquo; with the best performance possible.
-With an acquisition from a Lattice Lightsheet microscope the image slices are created at a skewed angle. In order to create a regular volumetric image in Cartesian coordinates, the volume needs to undergo a geometric transformation (and affine transformation, hence the name of this project) and needs to be resampled.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image-Processing on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/image-processing/</link>
+    <description>Recent content in Image-Processing on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 11:38:06 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visionsycl</title>
+      <link>http://oneapi-community.github.io/projects/visionsycl/</link>
+      <pubDate>Fri, 13 Dec 2024 11:38:06 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/visionsycl/</guid>
+      <description>&lt;p&gt;Attempt to provide common image processing functions that runs on heterogeneous devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Warpaffine</title>
+      <link>http://oneapi-community.github.io/projects/warpaffine/</link>
+      <pubDate>Sun, 23 Jun 2024 15:11:37 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/warpaffine/</guid>
+      <description>&lt;p&gt;This is an experimental effort at implementing a &amp;ldquo;Deskew operation&amp;rdquo; with the best performance possible.&lt;/p&gt;&#xA;&lt;p&gt;With an acquisition from a &lt;a href=&#34;https://www.zeiss.com/microscopy/en/products/light-microscopes/light-sheet-microscopes/lattice-lightsheet-7.html&#34;&gt;Lattice Lightsheet microscope&lt;/a&gt; the image slices are created at a skewed angle. In order to create a regular volumetric image in Cartesian coordinates, the volume needs to undergo a geometric transformation (and affine transformation, hence the name of this project) and needs to be resampled.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

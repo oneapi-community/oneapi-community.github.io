@@ -1,1 +1,733 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/</link><description>Recent content in Tags on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:40:42 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Healthcare</title><link>http://oneapi-community.github.io/tags/healthcare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/healthcare/</guid><description/></item><item><title>Machine-Learning'</title><link>http://oneapi-community.github.io/tags/machine-learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/machine-learning/</guid><description/></item><item><title>Tensorflow</title><link>http://oneapi-community.github.io/tags/tensorflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/tensorflow/</guid><description/></item><item><title>Aeronautics</title><link>http://oneapi-community.github.io/tags/aeronautics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/aeronautics/</guid><description/></item><item><title>Machine-Learning</title><link>http://oneapi-community.github.io/tags/machine-learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/machine-learning/</guid><description/></item><item><title>Daal4py</title><link>http://oneapi-community.github.io/tags/daal4py/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/daal4py/</guid><description/></item><item><title>Jupyternotebook</title><link>http://oneapi-community.github.io/tags/jupyternotebook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/jupyternotebook/</guid><description/></item><item><title>Python</title><link>http://oneapi-community.github.io/tags/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/python/</guid><description/></item><item><title>Deep Learning</title><link>http://oneapi-community.github.io/tags/deep-learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/deep-learning/</guid><description/></item><item><title>HCI</title><link>http://oneapi-community.github.io/tags/hci/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/hci/</guid><description/></item><item><title>NLP</title><link>http://oneapi-community.github.io/tags/nlp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/nlp/</guid><description/></item><item><title>Speech Recognition</title><link>http://oneapi-community.github.io/tags/speech-recognition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/speech-recognition/</guid><description/></item><item><title>Tensoflow</title><link>http://oneapi-community.github.io/tags/tensoflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/tensoflow/</guid><description/></item><item><title>Lasers</title><link>http://oneapi-community.github.io/tags/lasers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/lasers/</guid><description/></item><item><title>Optics</title><link>http://oneapi-community.github.io/tags/optics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/optics/</guid><description/></item><item><title>Physics</title><link>http://oneapi-community.github.io/tags/physics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/physics/</guid><description/></item><item><title>Simulation</title><link>http://oneapi-community.github.io/tags/simulation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/simulation/</guid><description/></item><item><title>Image-Processing</title><link>http://oneapi-community.github.io/tags/image-processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/image-processing/</guid><description/></item><item><title>Tbb</title><link>http://oneapi-community.github.io/tags/tbb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/tbb/</guid><description/></item><item><title>Differential-Equations</title><link>http://oneapi-community.github.io/tags/differential-equations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/differential-equations/</guid><description/></item><item><title>FGPA</title><link>http://oneapi-community.github.io/tags/fgpa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/fgpa/</guid><description/></item><item><title>Math</title><link>http://oneapi-community.github.io/tags/math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/math/</guid><description/></item><item><title>Fpga</title><link>http://oneapi-community.github.io/tags/fpga/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/fpga/</guid><description/></item><item><title>OpenCL</title><link>http://oneapi-community.github.io/tags/opencl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/opencl/</guid><description/></item><item><title>Raytracing</title><link>http://oneapi-community.github.io/tags/raytracing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/raytracing/</guid><description/></item><item><title>Graph</title><link>http://oneapi-community.github.io/tags/graph/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/graph/</guid><description/></item><item><title>Neural Networks</title><link>http://oneapi-community.github.io/tags/neural-networks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/neural-networks/</guid><description/></item><item><title>Neural Network</title><link>http://oneapi-community.github.io/tags/neural-network/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/neural-network/</guid><description/></item><item><title>Rust</title><link>http://oneapi-community.github.io/tags/rust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/rust/</guid><description/></item><item><title>AI</title><link>http://oneapi-community.github.io/tags/ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/ai/</guid><description/></item><item><title>AI Kit</title><link>http://oneapi-community.github.io/tags/ai-kit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/ai-kit/</guid><description/></item><item><title>Gen AI</title><link>http://oneapi-community.github.io/tags/gen-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/gen-ai/</guid><description/></item><item><title>Intel</title><link>http://oneapi-community.github.io/tags/intel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/intel/</guid><description/></item><item><title>Programming</title><link>http://oneapi-community.github.io/tags/programming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/programming/</guid><description/></item><item><title>Vscode</title><link>http://oneapi-community.github.io/tags/vscode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/vscode/</guid><description/></item><item><title>Tools</title><link>http://oneapi-community.github.io/tags/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/tools/</guid><description/></item><item><title>Coursework</title><link>http://oneapi-community.github.io/tags/coursework/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/coursework/</guid><description/></item><item><title>Dpc++</title><link>http://oneapi-community.github.io/tags/dpc++/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/dpc++/</guid><description/></item><item><title>Education</title><link>http://oneapi-community.github.io/tags/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/education/</guid><description/></item><item><title>Frameworks</title><link>http://oneapi-community.github.io/tags/frameworks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/frameworks/</guid><description/></item><item><title>OpenMP</title><link>http://oneapi-community.github.io/tags/openmp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/openmp/</guid><description/></item><item><title>Cuda Port</title><link>http://oneapi-community.github.io/tags/cuda-port/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/cuda-port/</guid><description/></item><item><title>LLM</title><link>http://oneapi-community.github.io/tags/llm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/llm/</guid><description/></item><item><title>Library</title><link>http://oneapi-community.github.io/tags/library/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/library/</guid><description/></item><item><title>Jupyternotebook, Python</title><link>http://oneapi-community.github.io/tags/jupyternotebook-python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/jupyternotebook-python/</guid><description/></item><item><title>OneDNN</title><link>http://oneapi-community.github.io/tags/onednn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/onednn/</guid><description/></item><item><title>Python, Onedal, Onetbb</title><link>http://oneapi-community.github.io/tags/python-onedal-onetbb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/python-onedal-onetbb/</guid><description/></item><item><title>Huggingface</title><link>http://oneapi-community.github.io/tags/huggingface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/huggingface/</guid><description/></item><item><title>Container</title><link>http://oneapi-community.github.io/tags/container/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/container/</guid><description/></item><item><title>Docker</title><link>http://oneapi-community.github.io/tags/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/docker/</guid><description/></item><item><title>Sycl</title><link>http://oneapi-community.github.io/tags/sycl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/sycl/</guid><description/></item><item><title>Testing</title><link>http://oneapi-community.github.io/tags/testing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/testing/</guid><description/></item><item><title>Sample</title><link>http://oneapi-community.github.io/tags/sample/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/sample/</guid><description/></item><item><title>Tutorial</title><link>http://oneapi-community.github.io/tags/tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/tutorial/</guid><description/></item><item><title>Raytracer</title><link>http://oneapi-community.github.io/tags/raytracer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/raytracer/</guid><description/></item><item><title>Jupyter</title><link>http://oneapi-community.github.io/tags/jupyter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/jupyter/</guid><description/></item><item><title>OneDAL</title><link>http://oneapi-community.github.io/tags/onedal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/onedal/</guid><description/></item><item><title>Scikit</title><link>http://oneapi-community.github.io/tags/scikit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/scikit/</guid><description/></item><item><title>Social Impact</title><link>http://oneapi-community.github.io/tags/social-impact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/social-impact/</guid><description/></item><item><title>Jupyter Notebook</title><link>http://oneapi-community.github.io/tags/jupyter-notebook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/jupyter-notebook/</guid><description/></item><item><title>Java</title><link>http://oneapi-community.github.io/tags/java/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/java/</guid><description/></item><item><title>Levelzero</title><link>http://oneapi-community.github.io/tags/levelzero/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/levelzero/</guid><description/></item><item><title>OneAPI</title><link>http://oneapi-community.github.io/tags/oneapi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/oneapi/</guid><description/></item><item><title>Pandas</title><link>http://oneapi-community.github.io/tags/pandas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/pandas/</guid><description/></item><item><title>Pytorch</title><link>http://oneapi-community.github.io/tags/pytorch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/pytorch/</guid><description/></item><item><title>Streamlit</title><link>http://oneapi-community.github.io/tags/streamlit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/streamlit/</guid><description/></item><item><title>Tqdm</title><link>http://oneapi-community.github.io/tags/tqdm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/tqdm/</guid><description/></item><item><title>Images</title><link>http://oneapi-community.github.io/tags/images/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/images/</guid><description/></item><item><title>Audio</title><link>http://oneapi-community.github.io/tags/audio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/audio/</guid><description/></item><item><title>Music</title><link>http://oneapi-community.github.io/tags/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/music/</guid><description/></item><item><title>TriSYCL</title><link>http://oneapi-community.github.io/tags/trisycl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/trisycl/</guid><description/></item><item><title>Simulator</title><link>http://oneapi-community.github.io/tags/simulator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/simulator/</guid><description/></item><item><title>Benchmark</title><link>http://oneapi-community.github.io/tags/benchmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/benchmark/</guid><description/></item><item><title>Samples</title><link>http://oneapi-community.github.io/tags/samples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/samples/</guid><description/></item><item><title>Windows</title><link>http://oneapi-community.github.io/tags/windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/windows/</guid><description/></item><item><title>Mkl</title><link>http://oneapi-community.github.io/tags/mkl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/mkl/</guid><description/></item><item><title>Sql</title><link>http://oneapi-community.github.io/tags/sql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/sql/</guid><description/></item><item><title>Onevpl</title><link>http://oneapi-community.github.io/tags/onevpl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/onevpl/</guid><description/></item><item><title>AI-Analytics</title><link>http://oneapi-community.github.io/tags/ai-analytics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/ai-analytics/</guid><description/></item><item><title>Codesample</title><link>http://oneapi-community.github.io/tags/codesample/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/codesample/</guid><description/></item><item><title>Hackathon</title><link>http://oneapi-community.github.io/tags/hackathon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/hackathon/</guid><description/></item><item><title>OpenVINO</title><link>http://oneapi-community.github.io/tags/openvino/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/openvino/</guid><description/></item><item><title>OpenCV</title><link>http://oneapi-community.github.io/tags/opencv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/opencv/</guid><description/></item><item><title>Sckit-Learn</title><link>http://oneapi-community.github.io/tags/sckit-learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://oneapi-community.github.io/tags/sckit-learn/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/</link>
+    <description>Recent content in Tags on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 12:04:00 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LevelZero</title>
+      <link>http://oneapi-community.github.io/tags/levelzero/</link>
+      <pubDate>Fri, 13 Dec 2024 12:04:00 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/levelzero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opencl</title>
+      <link>http://oneapi-community.github.io/tags/opencl/</link>
+      <pubDate>Fri, 13 Dec 2024 12:04:00 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/opencl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sycl</title>
+      <link>http://oneapi-community.github.io/tags/sycl/</link>
+      <pubDate>Fri, 13 Dec 2024 12:04:00 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/sycl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beginner</title>
+      <link>http://oneapi-community.github.io/tags/beginner/</link>
+      <pubDate>Fri, 13 Dec 2024 11:52:27 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/beginner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>http://oneapi-community.github.io/tags/infrastructure/</link>
+      <pubDate>Fri, 13 Dec 2024 11:52:27 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quickstart</title>
+      <link>http://oneapi-community.github.io/tags/quickstart/</link>
+      <pubDate>Fri, 13 Dec 2024 11:51:22 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/quickstart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://oneapi-community.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 13 Dec 2024 11:48:55 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accessibilyt</title>
+      <link>http://oneapi-community.github.io/tags/accessibilyt/</link>
+      <pubDate>Fri, 13 Dec 2024 11:47:03 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/accessibilyt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sign Language</title>
+      <link>http://oneapi-community.github.io/tags/sign-language/</link>
+      <pubDate>Fri, 13 Dec 2024 11:47:03 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>http://oneapi-community.github.io/tags/sample/</link>
+      <pubDate>Fri, 13 Dec 2024 11:41:46 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatbot</title>
+      <link>http://oneapi-community.github.io/tags/chatbot/</link>
+      <pubDate>Fri, 13 Dec 2024 11:39:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devsummit</title>
+      <link>http://oneapi-community.github.io/tags/devsummit/</link>
+      <pubDate>Fri, 13 Dec 2024 11:39:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/devsummit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>http://oneapi-community.github.io/tags/llm/</link>
+      <pubDate>Fri, 13 Dec 2024 11:39:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image-Processing</title>
+      <link>http://oneapi-community.github.io/tags/image-processing/</link>
+      <pubDate>Fri, 13 Dec 2024 11:38:06 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frameworks</title>
+      <link>http://oneapi-community.github.io/tags/frameworks/</link>
+      <pubDate>Fri, 13 Dec 2024 11:35:09 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crypto</title>
+      <link>http://oneapi-community.github.io/tags/crypto/</link>
+      <pubDate>Fri, 13 Dec 2024 11:25:06 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fpga</title>
+      <link>http://oneapi-community.github.io/tags/fpga/</link>
+      <pubDate>Fri, 04 Oct 2024 19:38:07 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuda</title>
+      <link>http://oneapi-community.github.io/tags/cuda/</link>
+      <pubDate>Fri, 04 Oct 2024 19:35:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/cuda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syclomatic</title>
+      <link>http://oneapi-community.github.io/tags/syclomatic/</link>
+      <pubDate>Fri, 04 Oct 2024 19:35:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/syclomatic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cellular Automa</title>
+      <link>http://oneapi-community.github.io/tags/cellular-automa/</link>
+      <pubDate>Fri, 04 Oct 2024 19:33:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/cellular-automa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genetics</title>
+      <link>http://oneapi-community.github.io/tags/genetics/</link>
+      <pubDate>Fri, 04 Oct 2024 19:33:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/genetics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackathon</title>
+      <link>http://oneapi-community.github.io/tags/hackathon/</link>
+      <pubDate>Fri, 04 Oct 2024 19:30:15 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithms</title>
+      <link>http://oneapi-community.github.io/tags/algorithms/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Processing</title>
+      <link>http://oneapi-community.github.io/tags/data-processing/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/data-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learnig</title>
+      <link>http://oneapi-community.github.io/tags/machine-learnig/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/machine-learnig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tbb</title>
+      <link>http://oneapi-community.github.io/tags/tbb/</link>
+      <pubDate>Fri, 04 Oct 2024 19:19:06 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/tbb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>http://oneapi-community.github.io/tags/physics/</link>
+      <pubDate>Fri, 04 Oct 2024 19:16:10 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://oneapi-community.github.io/tags/development/</link>
+      <pubDate>Fri, 04 Oct 2024 18:33:51 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Julia</title>
+      <link>http://oneapi-community.github.io/tags/julia/</link>
+      <pubDate>Fri, 04 Oct 2024 18:33:51 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/julia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Libraries</title>
+      <link>http://oneapi-community.github.io/tags/libraries/</link>
+      <pubDate>Fri, 04 Oct 2024 18:33:51 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/libraries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://oneapi-community.github.io/tags/ai/</link>
+      <pubDate>Fri, 04 Oct 2024 18:29:23 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llama</title>
+      <link>http://oneapi-community.github.io/tags/llama/</link>
+      <pubDate>Fri, 04 Oct 2024 18:29:23 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/llama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onemkl</title>
+      <link>http://oneapi-community.github.io/tags/onemkl/</link>
+      <pubDate>Fri, 04 Oct 2024 18:29:23 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/onemkl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare</title>
+      <link>http://oneapi-community.github.io/tags/healthcare/</link>
+      <pubDate>Sun, 23 Jun 2024 15:40:42 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine-Learning&#39;</title>
+      <link>http://oneapi-community.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 23 Jun 2024 15:40:42 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tensorflow</title>
+      <link>http://oneapi-community.github.io/tags/tensorflow/</link>
+      <pubDate>Sun, 23 Jun 2024 15:40:42 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aeronautics</title>
+      <link>http://oneapi-community.github.io/tags/aeronautics/</link>
+      <pubDate>Sun, 23 Jun 2024 15:37:14 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/aeronautics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daal4py</title>
+      <link>http://oneapi-community.github.io/tags/daal4py/</link>
+      <pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/daal4py/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jupyternotebook</title>
+      <link>http://oneapi-community.github.io/tags/jupyternotebook/</link>
+      <pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/jupyternotebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://oneapi-community.github.io/tags/python/</link>
+      <pubDate>Sun, 23 Jun 2024 15:25:44 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://oneapi-community.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HCI</title>
+      <link>http://oneapi-community.github.io/tags/hci/</link>
+      <pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/hci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>http://oneapi-community.github.io/tags/nlp/</link>
+      <pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speech Recognition</title>
+      <link>http://oneapi-community.github.io/tags/speech-recognition/</link>
+      <pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/speech-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tensoflow</title>
+      <link>http://oneapi-community.github.io/tags/tensoflow/</link>
+      <pubDate>Sun, 23 Jun 2024 15:17:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/tensoflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lasers</title>
+      <link>http://oneapi-community.github.io/tags/lasers/</link>
+      <pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/lasers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optics</title>
+      <link>http://oneapi-community.github.io/tags/optics/</link>
+      <pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/optics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulation</title>
+      <link>http://oneapi-community.github.io/tags/simulation/</link>
+      <pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Differential-Equations</title>
+      <link>http://oneapi-community.github.io/tags/differential-equations/</link>
+      <pubDate>Sun, 23 Jun 2024 14:47:58 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/differential-equations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FGPA</title>
+      <link>http://oneapi-community.github.io/tags/fgpa/</link>
+      <pubDate>Sun, 23 Jun 2024 14:47:58 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/fgpa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://oneapi-community.github.io/tags/math/</link>
+      <pubDate>Sun, 23 Jun 2024 14:47:58 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raytracing</title>
+      <link>http://oneapi-community.github.io/tags/raytracing/</link>
+      <pubDate>Sun, 23 Jun 2024 14:21:24 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/raytracing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graph</title>
+      <link>http://oneapi-community.github.io/tags/graph/</link>
+      <pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/graph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neural Networks</title>
+      <link>http://oneapi-community.github.io/tags/neural-networks/</link>
+      <pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neural Network</title>
+      <link>http://oneapi-community.github.io/tags/neural-network/</link>
+      <pubDate>Sun, 23 Jun 2024 14:17:48 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://oneapi-community.github.io/tags/rust/</link>
+      <pubDate>Sun, 23 Jun 2024 14:17:48 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Kit</title>
+      <link>http://oneapi-community.github.io/tags/ai-kit/</link>
+      <pubDate>Sun, 23 Jun 2024 14:11:46 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/ai-kit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gen AI</title>
+      <link>http://oneapi-community.github.io/tags/gen-ai/</link>
+      <pubDate>Sun, 23 Jun 2024 14:11:46 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/gen-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intel</title>
+      <link>http://oneapi-community.github.io/tags/intel/</link>
+      <pubDate>Sun, 23 Jun 2024 14:07:31 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/intel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://oneapi-community.github.io/tags/programming/</link>
+      <pubDate>Sun, 23 Jun 2024 14:07:31 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vscode</title>
+      <link>http://oneapi-community.github.io/tags/vscode/</link>
+      <pubDate>Sun, 23 Jun 2024 14:07:31 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://oneapi-community.github.io/tags/tools/</link>
+      <pubDate>Sun, 23 Jun 2024 14:06:16 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coursework</title>
+      <link>http://oneapi-community.github.io/tags/coursework/</link>
+      <pubDate>Sun, 23 Jun 2024 14:03:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/coursework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dpc&#43;&#43;</title>
+      <link>http://oneapi-community.github.io/tags/dpc&#43;&#43;/</link>
+      <pubDate>Sun, 23 Jun 2024 14:03:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/dpc&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://oneapi-community.github.io/tags/education/</link>
+      <pubDate>Sun, 23 Jun 2024 14:03:34 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenMP</title>
+      <link>http://oneapi-community.github.io/tags/openmp/</link>
+      <pubDate>Sun, 23 Jun 2024 14:00:53 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/openmp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuda Port</title>
+      <link>http://oneapi-community.github.io/tags/cuda-port/</link>
+      <pubDate>Sun, 23 Jun 2024 13:16:11 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/cuda-port/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>http://oneapi-community.github.io/tags/library/</link>
+      <pubDate>Sun, 23 Jun 2024 13:14:07 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/library/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jupyternotebook, Python</title>
+      <link>http://oneapi-community.github.io/tags/jupyternotebook-python/</link>
+      <pubDate>Fri, 29 Mar 2024 12:28:19 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/jupyternotebook-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OneDNN</title>
+      <link>http://oneapi-community.github.io/tags/onednn/</link>
+      <pubDate>Fri, 29 Mar 2024 12:24:40 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/onednn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python, Onedal, Onetbb</title>
+      <link>http://oneapi-community.github.io/tags/python-onedal-onetbb/</link>
+      <pubDate>Fri, 29 Mar 2024 12:19:35 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/python-onedal-onetbb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huggingface</title>
+      <link>http://oneapi-community.github.io/tags/huggingface/</link>
+      <pubDate>Fri, 29 Mar 2024 12:16:38 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/huggingface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Container</title>
+      <link>http://oneapi-community.github.io/tags/container/</link>
+      <pubDate>Tue, 23 Jan 2024 13:35:09 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/container/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://oneapi-community.github.io/tags/docker/</link>
+      <pubDate>Tue, 23 Jan 2024 13:35:09 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://oneapi-community.github.io/tags/testing/</link>
+      <pubDate>Tue, 23 Jan 2024 13:33:18 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://oneapi-community.github.io/tags/tutorial/</link>
+      <pubDate>Tue, 23 Jan 2024 13:30:43 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raytracer</title>
+      <link>http://oneapi-community.github.io/tags/raytracer/</link>
+      <pubDate>Tue, 23 Jan 2024 13:26:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/raytracer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jupyter</title>
+      <link>http://oneapi-community.github.io/tags/jupyter/</link>
+      <pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/jupyter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OneDAL</title>
+      <link>http://oneapi-community.github.io/tags/onedal/</link>
+      <pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/onedal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scikit</title>
+      <link>http://oneapi-community.github.io/tags/scikit/</link>
+      <pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/scikit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Impact</title>
+      <link>http://oneapi-community.github.io/tags/social-impact/</link>
+      <pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/social-impact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>http://oneapi-community.github.io/tags/jupyter-notebook/</link>
+      <pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://oneapi-community.github.io/tags/java/</link>
+      <pubDate>Mon, 27 Nov 2023 13:51:28 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OneAPI</title>
+      <link>http://oneapi-community.github.io/tags/oneapi/</link>
+      <pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/oneapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandas</title>
+      <link>http://oneapi-community.github.io/tags/pandas/</link>
+      <pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/pandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pytorch</title>
+      <link>http://oneapi-community.github.io/tags/pytorch/</link>
+      <pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>http://oneapi-community.github.io/tags/streamlit/</link>
+      <pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tqdm</title>
+      <link>http://oneapi-community.github.io/tags/tqdm/</link>
+      <pubDate>Tue, 14 Nov 2023 15:21:51 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/tqdm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Images</title>
+      <link>http://oneapi-community.github.io/tags/images/</link>
+      <pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/images/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>http://oneapi-community.github.io/tags/audio/</link>
+      <pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://oneapi-community.github.io/tags/music/</link>
+      <pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TriSYCL</title>
+      <link>http://oneapi-community.github.io/tags/trisycl/</link>
+      <pubDate>Tue, 14 Nov 2023 15:13:25 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/trisycl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulator</title>
+      <link>http://oneapi-community.github.io/tags/simulator/</link>
+      <pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/simulator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmark</title>
+      <link>http://oneapi-community.github.io/tags/benchmark/</link>
+      <pubDate>Tue, 14 Nov 2023 15:07:03 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Samples</title>
+      <link>http://oneapi-community.github.io/tags/samples/</link>
+      <pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/samples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://oneapi-community.github.io/tags/windows/</link>
+      <pubDate>Wed, 01 Nov 2023 10:54:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mkl</title>
+      <link>http://oneapi-community.github.io/tags/mkl/</link>
+      <pubDate>Tue, 31 Oct 2023 17:33:00 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/mkl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sql</title>
+      <link>http://oneapi-community.github.io/tags/sql/</link>
+      <pubDate>Tue, 31 Oct 2023 12:55:25 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onevpl</title>
+      <link>http://oneapi-community.github.io/tags/onevpl/</link>
+      <pubDate>Tue, 31 Oct 2023 12:38:49 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/onevpl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Codesample</title>
+      <link>http://oneapi-community.github.io/tags/codesample/</link>
+      <pubDate>Mon, 30 Oct 2023 11:26:27 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/codesample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenVINO</title>
+      <link>http://oneapi-community.github.io/tags/openvino/</link>
+      <pubDate>Mon, 18 Sep 2023 12:39:10 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/openvino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCV</title>
+      <link>http://oneapi-community.github.io/tags/opencv/</link>
+      <pubDate>Mon, 18 Sep 2023 12:34:39 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sckit-Learn</title>
+      <link>http://oneapi-community.github.io/tags/sckit-learn/</link>
+      <pubDate>Mon, 18 Sep 2023 12:21:25 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/tags/sckit-learn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

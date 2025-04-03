@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simulator on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/simulator/</link><description>Recent content in Simulator on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 15:12:02 -0800</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/simulator/index.xml" rel="self" type="application/rss+xml"/><item><title>Sycl Collision Sim</title><link>http://oneapi-community.github.io/projects/sycl-collision-sim/</link><pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-collision-sim/</guid><description>Example SYCL implementation of collision detection</description></item><item><title>OneMD</title><link>http://oneapi-community.github.io/projects/onemd/</link><pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate><guid>http://oneapi-community.github.io/projects/onemd/</guid><description>oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulator on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/simulator/</link>
+    <description>Recent content in Simulator on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 15:12:02 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/simulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sycl Collision Sim</title>
+      <link>http://oneapi-community.github.io/projects/sycl-collision-sim/</link>
+      <pubDate>Tue, 14 Nov 2023 15:12:02 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-collision-sim/</guid>
+      <description>&lt;p&gt;Example SYCL implementation of collision detection&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneMD</title>
+      <link>http://oneapi-community.github.io/projects/onemd/</link>
+      <pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/onemd/</guid>
+      <description>&lt;p&gt;oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

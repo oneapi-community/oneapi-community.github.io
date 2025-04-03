@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/graph/</link><description>Recent content in Graph on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 14:20:12 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml"/><item><title>RayBNN_Graph</title><link>http://oneapi-community.github.io/projects/raybnn_graph/</link><pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate><guid>http://oneapi-community.github.io/projects/raybnn_graph/</guid><description>Graph Manipulation Library For GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/graph/</link>
+    <description>Recent content in Graph on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 14:20:12 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RayBNN_Graph</title>
+      <link>http://oneapi-community.github.io/projects/raybnn_graph/</link>
+      <pubDate>Sun, 23 Jun 2024 14:20:12 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/raybnn_graph/</guid>
+      <description>&lt;p&gt;Graph Manipulation Library For GPUs, CPUs, and FPGAs via CUDA, OpenCL, and oneAPI&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

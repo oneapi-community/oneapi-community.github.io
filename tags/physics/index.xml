@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Physics on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/physics/</link><description>Recent content in Physics on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:15:05 -0700</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml"/><item><title>LightWaveExplorer</title><link>http://oneapi-community.github.io/projects/lightwaveexplorer/</link><pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate><guid>http://oneapi-community.github.io/projects/lightwaveexplorer/</guid><description>Lightwave explorer is an open source nonlinear optics simulator, intended to be fast, visual, and flexible for students and researchers to play with ultrashort laser pulses and nonlinear optics without having to buy a laser first.</description></item><item><title>SYCL FNIRS Motion Detectio</title><link>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</link><pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</guid><description>SYCL machine learning libraries to detect motion detection in fNIRS.</description></item><item><title>OneMD</title><link>http://oneapi-community.github.io/projects/onemd/</link><pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate><guid>http://oneapi-community.github.io/projects/onemd/</guid><description>oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/physics/</link>
+    <description>Recent content in Physics on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:16:10 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SYCL CLUE</title>
+      <link>http://oneapi-community.github.io/projects/sycl-clue/</link>
+      <pubDate>Fri, 04 Oct 2024 19:16:10 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-clue/</guid>
+      <description>&lt;p&gt;Testing physics implementation of SYCL and OneApi using CLUE&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LightWaveExplorer</title>
+      <link>http://oneapi-community.github.io/projects/lightwaveexplorer/</link>
+      <pubDate>Sun, 23 Jun 2024 15:15:05 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/lightwaveexplorer/</guid>
+      <description>&lt;p&gt;Lightwave explorer is an open source nonlinear optics simulator, intended to be fast, visual, and flexible for students and researchers to play with ultrashort laser pulses and nonlinear optics without having to buy a laser first.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SYCL FNIRS Motion Detectio</title>
+      <link>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</link>
+      <pubDate>Tue, 14 Nov 2023 15:14:57 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-fnirs-motion-detectio/</guid>
+      <description>&lt;p&gt;SYCL machine learning libraries to detect motion detection in fNIRS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OneMD</title>
+      <link>http://oneapi-community.github.io/projects/onemd/</link>
+      <pubDate>Mon, 30 Oct 2023 11:29:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/onemd/</guid>
+      <description>&lt;p&gt;oneMD is a molecular dynamics simulator designed to take advantage of SIMD and GPU and FPGA hardware data parallelism and acceleration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

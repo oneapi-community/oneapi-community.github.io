@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuda on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/cuda/</link>
+    <description>Recent content in Cuda on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:35:50 -0700</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sycl Mapping Api Scanner</title>
+      <link>http://oneapi-community.github.io/projects/sycl-mapping-api-scanner/</link>
+      <pubDate>Fri, 04 Oct 2024 19:35:50 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-mapping-api-scanner/</guid>
+      <description>&lt;p&gt;A utility to help analyze CUDA-SYCL migration projects and provide a summary report regarding the current support status of SYCL mapping/migration APIs tracked by Intel SYCLomatic open source project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

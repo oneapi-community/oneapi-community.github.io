@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OneDAL on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/onedal/</link><description>Recent content in OneDAL on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 13:14:39 -0800</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/onedal/index.xml" rel="self" type="application/rss+xml"/><item><title>Diagnosify</title><link>http://oneapi-community.github.io/projects/diagnosify/</link><pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate><guid>http://oneapi-community.github.io/projects/diagnosify/</guid><description>Diagnosify is an innovative brain disease classification project designed to leverage the power of machine learning and Intel® oneAPIs for accurate and efficient brain disease prediction.</description></item><item><title>oneAPI Crop Recommendation Model</title><link>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</link><pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</guid><description>This project focuses on leveraging machine learning to enhance agriculture by recommending crops based on soil characteristics. The initiative employs advanced machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree, to provide precise crop recommendations.</description></item><item><title>Cleansweep</title><link>http://oneapi-community.github.io/projects/cleansweep/</link><pubDate>Mon, 18 Sep 2023 12:32:56 -0700</pubDate><guid>http://oneapi-community.github.io/projects/cleansweep/</guid><description>CleanSweep.AI uses the OpenVINO toolkit to optimize the processing of the object detection model to detect the scattared garbage from the input video.</description></item><item><title>Lunar Model oneAPI</title><link>http://oneapi-community.github.io/projects/lunar-model-oneapi/</link><pubDate>Mon, 18 Sep 2023 12:29:46 -0700</pubDate><guid>http://oneapi-community.github.io/projects/lunar-model-oneapi/</guid><description>Our project lunar api as established in the documentation uses Segmentation model that is developed using CNN in a U-net Architecture.</description></item><item><title>Breast Cancer With oneAPI</title><link>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</link><pubDate>Mon, 18 Sep 2023 12:21:25 -0700</pubDate><guid>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</guid><description>Logistic regression can identify important predictors of breast cancer using odds ratios and generate confidence intervals that provide additional information for decision-making. Model</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OneDAL on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/onedal/</link>
+    <description>Recent content in OneDAL on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 13:14:39 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/onedal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagnosify</title>
+      <link>http://oneapi-community.github.io/projects/diagnosify/</link>
+      <pubDate>Tue, 23 Jan 2024 13:14:39 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/diagnosify/</guid>
+      <description>&lt;p&gt;Diagnosify is an innovative brain disease classification project designed to leverage the power of machine learning and Intel® oneAPIs for accurate and efficient brain disease prediction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Crop Recommendation Model</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</link>
+      <pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</guid>
+      <description>&lt;p&gt;This project focuses on leveraging machine learning to enhance agriculture by recommending crops based on soil characteristics. The initiative employs advanced machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree, to provide precise crop recommendations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cleansweep</title>
+      <link>http://oneapi-community.github.io/projects/cleansweep/</link>
+      <pubDate>Mon, 18 Sep 2023 12:32:56 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/cleansweep/</guid>
+      <description>&lt;p&gt;CleanSweep.AI uses the OpenVINO toolkit to optimize the processing of the object detection model to detect the scattared garbage from the input video.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lunar Model oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/lunar-model-oneapi/</link>
+      <pubDate>Mon, 18 Sep 2023 12:29:46 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/lunar-model-oneapi/</guid>
+      <description>&lt;p&gt;Our project lunar api as established in the documentation uses Segmentation model that is developed using CNN in a U-net Architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Breast Cancer With oneAPI</title>
+      <link>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</link>
+      <pubDate>Mon, 18 Sep 2023 12:21:25 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/breast-cancer-with-oneapi/</guid>
+      <description>&lt;p&gt;Logistic regression can identify important predictors of breast cancer using odds ratios and generate confidence intervals that provide additional information for decision-making. Model&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

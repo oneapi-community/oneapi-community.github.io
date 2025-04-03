@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sample on oneAPI Community Page</title><link>http://oneapi-community.github.io/tags/sample/</link><description>Recent content in Sample on oneAPI Community Page</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 13:30:43 -0800</lastBuildDate><atom:link href="http://oneapi-community.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml"/><item><title>Sycl_tutorial</title><link>http://oneapi-community.github.io/projects/sycl_tutorial/</link><pubDate>Tue, 23 Jan 2024 13:30:43 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl_tutorial/</guid><description>Sample codes of SYCL.</description></item><item><title>Sycl Bfs</title><link>http://oneapi-community.github.io/projects/sycl-bfs/</link><pubDate>Tue, 23 Jan 2024 13:25:08 -0800</pubDate><guid>http://oneapi-community.github.io/projects/sycl-bfs/</guid><description>A repository containing implementaitons of the BFS with SYCL framework.</description></item><item><title>oneAPI Crop Recommendation Model</title><link>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</link><pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate><guid>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</guid><description>This project focuses on leveraging machine learning to enhance agriculture by recommending crops based on soil characteristics. The initiative employs advanced machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree, to provide precise crop recommendations.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample on oneAPI Community Page</title>
+    <link>http://oneapi-community.github.io/tags/sample/</link>
+    <description>Recent content in Sample on oneAPI Community Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 11:41:46 -0800</lastBuildDate>
+    <atom:link href="http://oneapi-community.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OneAPI Early Warning System Waste Water Analysis</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-early-warning-system-waste-water-analysis/</link>
+      <pubDate>Fri, 13 Dec 2024 11:41:46 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-early-warning-system-waste-water-analysis/</guid>
+      <description>&lt;p&gt;The AI-Powered Early Warning System leverages cutting-edge technologies, including Intel oneAPI, to analyze wastewater data and detect early signs of infectious diseases, antibiotic resistance, and emerging health threats. This revolutionary system provides a proactive approach to safeguarding public health by predicting outbreaks before they escalate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oneapi Ai and Hpc Devsummit Workshop</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-ai-and-hpc-devsummit-workshop/</link>
+      <pubDate>Fri, 13 Dec 2024 11:39:38 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-ai-and-hpc-devsummit-workshop/</guid>
+      <description>&lt;p&gt;LLM Custom Chatbot development with Huggingface opensource Mistral 7B model with Intel Developer Cloud (IDC)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insruance Fraud Detection</title>
+      <link>http://oneapi-community.github.io/projects/insruance-fraud-detection/</link>
+      <pubDate>Fri, 04 Oct 2024 19:42:11 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/insruance-fraud-detection/</guid>
+      <description>&lt;p&gt;Insurance Fraud Detection Classififcation ML model using OneAPI (Decision Tree)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RVCE Stock Market Prediction</title>
+      <link>http://oneapi-community.github.io/projects/rvce-stock-market-prediction/</link>
+      <pubDate>Fri, 04 Oct 2024 19:24:29 -0700</pubDate>
+      <guid>http://oneapi-community.github.io/projects/rvce-stock-market-prediction/</guid>
+      <description>&lt;p&gt;This repository contains the implementation of a stock market prediction model for Microsoft stocks, developed as part of the Intel OneAPI AI Analytics Toolkit Hackathon. The project leverages advanced AI techniques and the Intel OneAPI AI Analytics Toolkit to train and deploy predictive models, aiming to forecast Microsoft stock prices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl_tutorial</title>
+      <link>http://oneapi-community.github.io/projects/sycl_tutorial/</link>
+      <pubDate>Tue, 23 Jan 2024 13:30:43 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl_tutorial/</guid>
+      <description>&lt;p&gt;Sample codes of SYCL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sycl Bfs</title>
+      <link>http://oneapi-community.github.io/projects/sycl-bfs/</link>
+      <pubDate>Tue, 23 Jan 2024 13:25:08 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/sycl-bfs/</guid>
+      <description>&lt;p&gt;A repository containing implementaitons of the BFS with SYCL framework.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oneAPI Crop Recommendation Model</title>
+      <link>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</link>
+      <pubDate>Tue, 23 Jan 2024 13:04:07 -0800</pubDate>
+      <guid>http://oneapi-community.github.io/projects/oneapi-crop-recommendation-model/</guid>
+      <description>&lt;p&gt;This project focuses on leveraging machine learning to enhance agriculture by recommending crops based on soil characteristics. The initiative employs advanced machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree, to provide precise crop recommendations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
